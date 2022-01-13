@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<!-- *****************************************************
+NOMBRE: Alex
+APELLIDOS: Nadal Viñallonga
+*********************************************************** -->
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Contacto</title>
+    <link rel="stylesheet" href="../css/estilo.css" />
+</head>
+<body>
+    <header class="sticky" style="text-align: center;">
+        <img alt="Logo" src="../imagenes/delicias.png">
+        <hr color="#8A8070">
+        <div>
+            <nav>
+                <a class="lletra" href="../index.html">INICIO</a>
+                <a class="lletra" href="">SOBRE MÍ</a>
+                <a class="lletra" href="../listado/listado.html">RECETAS</a>
+                <a class="lletra" href="../contacto/contacto.html">CONTACTO</a>
+                <a class="lletra" href="../xsl/recetas.xml">OTRAS COSAS</a> 
+                <a class="lletra" href="../xsl/recetas.xml">NOVES RECEPTES</a>
+            </nav>
+        </div>
+        <hr color="#8A8070">
+    </header>
+    <form>
+        <fieldset  style="background-color: #B7E1D3">
+            <legend style="border: 1px solid black; background-color: white"> Dades Personals</legend>
+                <table>
+                    <tr>
+                        <td><label for="nom">Nom:</label></td>
+                        <td><label for="cognoms">Cognoms:</label></td>
+                        
+                    </tr>
+                    <tr>
+                        <td><input type="text" name="nom" /></td>
+                        <td><input type="text" name="cognoms" /></td>
+                        
+                    </tr>
+                    <tr>
+                        <td><label for="dni">DNI</label></td>
+                    </tr>
+                    <tr>
+                        <td><input type="text" name="dni" /></td>
+                    </tr>
+                    <tr>
+                        <td><label for="username">Username:</label></td>
+                        <td><label for="clau">Clau:</label></td>
+                        <td><label for="clau2">Repeteix Clau:</label></td>
+                    </tr>
+                    <tr>
+                        <td><input type="text" name="username" /></td>
+                        <td><input type="text" name="clau" /></td>
+                        <td><input type="text" name="clau2" /></td>
+                    </tr>
+                    <tr>
+                        <td><label for="correu">E-mail:</label></td>
+                        <td><label for="edat">Edat:</label></td>
+                        <td><label for="data">Data de naixement:</label></td>
+                    </tr>
+                    <tr>
+                        <td><input type="text" name="correu" /></td>
+                        <td>
+                            <select name="edat">
+                                <option>Menor de 16 anys</option>
+                                <option>Entre 16 i 18 anys</option>
+                                <option>Major de 18 anys</option>
+                            </select>
+                        </td>
+                        <td>
+                            <input type="date" name="data" />
+                        </td>
+                    </tr>
+                </table>
+                <input type="radio" id="male" name="gender" value="male">
+                <label for="male">Home</label><br>
+                <input type="radio" id="female" name="gender" value="female">
+                <label for="female">Dona</label><br>
+                <input type="radio" id="other" name="gender" value="other">
+                <label for="other">Altres</label>
+        </fieldset>
+        <fieldset style="background-color: #4E9B82 ">
+            <legend style="border: 1px solid black; background-color: white">Adjunta la teva recepta!</legend>
+            <table>
+                <tr> 
+                    <p>Documents<input type="file" name="arxiu1" id="arxiu1" placeholder="Documents"></p>
+                    <p class="submit1">
+                </tr>
+            </table>
+        </fieldset>
+        <p>
+            <input type="submit" value="Enviar Solicitut">
+            <input type="reset" value="Borrar tot">
+        </p>
+    </form>
+</body>
+</html>
