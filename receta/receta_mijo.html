@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<!-- *****************************************************
+NOMBRE: Alex
+APELLIDOS: Nadal Viñallonga
+*********************************************************** -->
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="../css/estilo.css" />
+    <title>Receta Mijo</title>
+    <style type='text/css'>
+        #anuncio {
+        position: absolute;
+        border: 0px;
+        padding: 2px;
+        width: 300px;
+        height: 80px;
+        visibility: hidden;
+        z-index: 200;
+        top: 27px;
+        left: 13px;
+        }
+        </style>
+        
+        
+        <script type='text/javascript'>
+        //<![CDATA[
+        var persistclose=0 //set to 0 or 1. 1 means once the bar is manually closed, it will remain closed for browser session
+        var startX = 30 //set x offset of bar in pixels
+        var startY = 5 //set y offset of bar in pixels
+        var verticalpos="fromtop" //enter "fromtop" or "frombottom"
+        
+        function iecompattest(){
+        return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+        }
+        
+        function get_cookie(Name) {
+        var search = Name + "="
+        var returnvalue = "";
+        if (document.cookie.length > 0) {
+        offset = document.cookie.indexOf(search)
+        if (offset != -1) {
+        offset += search.length
+        end = document.cookie.indexOf(";", offset);
+        if (end == -1) end = document.cookie.length;
+        returnvalue=unescape(document.cookie.substring(offset, end))
+        }
+        }
+        return returnvalue;
+        }
+        
+        function closebar(){
+        if (persistclose)
+        document.cookie="remainclosed=1"
+        document.getElementById("anuncio").style.visibility="hidden"
+        }
+        
+        function staticbar(){
+        barheight=document.getElementById("anuncio").offsetHeight
+        var ns = (navigator.appName.indexOf("Netscape") != -1) || window.opera;
+        var d = document;
+        function ml(id){
+        var el=d.getElementById(id);
+        if (!persistclose || persistclose && get_cookie("remainclosed")=="")
+        el.style.visibility="visible"
+        if(d.layers)el.style=el;
+        el.sP=function(x,y){this.style.left=x+"px";this.style.top=y+"px";};
+        el.x = startX;
+        if (verticalpos=="fromtop")
+        el.y = startY;
+        else{
+        el.y = ns ? pageYOffset + innerHeight : iecompattest().scrollTop + iecompattest().clientHeight;
+        el.y -= startY;
+        }
+        return el;
+        }
+        window.stayTopLeft=function(){
+        if (verticalpos=="fromtop"){
+        var pY = ns ? pageYOffset : iecompattest().scrollTop;
+        ftlObj.y += (pY + startY - ftlObj.y)/8;
+        }
+        else{
+        var pY = ns ? pageYOffset + innerHeight - barheight: iecompattest().scrollTop + iecompattest().clientHeight - barheight;
+        ftlObj.y += (pY - startY - ftlObj.y)/8;
+        }
+        ftlObj.sP(ftlObj.x, ftlObj.y);
+        setTimeout("stayTopLeft()", 10);
+        }
+        ftlObj = ml("anuncio");
+        stayTopLeft();
+        }
+        if (window.addEventListener)
+        window.addEventListener("load", staticbar, false)
+        else if (window.attachEvent)
+        window.attachEvent("onload", staticbar)
+        else if (document.getElementById)
+        window.onload=staticbar
+        //]]>
+        </script>
+</head>
+<body class="body_galetes">
+    <header class="sticky" style="text-align: center;">
+        <img alt="Logo" src="../imagenes/delicias.png">
+        <hr color="#8A8070">
+        <div>
+            <nav>
+                <a class="lletra" href="../index.html">INICIO</a>
+                <a class="lletra" href="">SOBRE MÍ</a>
+                <a class="lletra" href="../listado/listado.html">RECETAS</a>
+                <a class="lletra" href="../contacto/contacto.html">CONTACTO</a>
+                <a class="lletra" href="../xsl/recetas.xml">OTRAS COSAS</a> 
+                <a class="lletra" href="../xsl/recetas.xml">NOVES RECEPTES</a>
+            </nav>
+        </div>
+        <hr color="#8A8070">
+    </header>
+    
+    <aside class="dreta">
+        <header class="centrar2">
+            <h3>Sobre mí</h3>
+            <img width="80%" alt="Foto señora" src="../imagenes/isagil.png">
+            <p>Hola bienvenid@ a mi blog, un espacio<br>
+                donde quiero compartir mis recetas<br>
+                vegetaríanas y veganas favoritas...
+            </p>
+        </header>
+        <nav class="centrar" style="background-color:lightgrey;">
+            <h3>Suscribete a mi blog</h3>
+            <img class="baixar" alt="foto libro" src="../imagenes/libro.png">
+            <p>Y consigue GRATIS mi eBook con 10 <br>
+            recetas excluisvas con superalimentos</p>
+        </nav>
+        <footer>
+            <h4 class="descentrar">Apúntame</h4>
+        </footer>
+    </aside>
+    
+    <section class="mig2, body_galetes">
+        <H1 style="font-family: Gill Sans MT;">
+            Mijo cremoso con lentejas, hortalizas y shiitake
+        </H1>
+        <p style="text-align: left;font-size: 15px;">Isa Gil</p>   
+        <p style="text-align: left;font-size: 15px;">23 de Novembre 2021</p>
+        
+        <hr>
+        <img style="margin-left: 7%;" class="top" width="50%" height="40%" alt="galetes" src="../imagenes/mijo.jpg">
+    
+        <p>
+            Un buen plato de mijo cremoso con lentejas y
+hortalizas es todo lo que necesitas para templar el
+cuerpo este invierno! Delicioso y fácil!
+        </p>
+        <br>
+        <article class="fons">
+            <h3><b><u>Ingredientes:</u></b></h3>
+             <ul>
+                <li>
+                    <p>2 cucharadas de aceite de oliva virgen extra</p>
+                </li>
+                <li>
+                    <p>1 cebolla grande</p>
+                </li>
+                <li>
+                    <p>2 dientes de ajo</p>
+                </li>
+                <li>
+                    <p>300 g de boniato pelado</p>
+                </li>
+                <li>
+                    <p>300 g de coliflor (parte blanca, sin el tronco)</p>
+                </li>
+                <li>
+                    <p>500 ml de agua</p>
+                </li>
+                <li>
+                    <p>1/2 taza de mijo</p>
+                </li>
+                <li>
+                    <p>1/2 taza de lentejas rojas partidas</p>
+                </li>
+                <li>
+                    <p>1 cucharadita de sal</p>
+                </li>
+                <li>
+                    <p>5 o 6 setas shiitake (unos 100 g)</p>
+                </li>
+                <li>
+                    <p>1 taza de leche de almendras sin endulzar</p>
+                </li>
+                <li>
+                    <p>1/2 cucharadita de curry en polvo</p>
+                </li>
+
+            </ul>
+            <br>
+            <h3><b><u>Preparacion:</u></b></h3>
+            <ol>
+                <li>
+                    <p>Echar las 2 cucharadas de aceite de oliva virgen extra en una olla, calentar y añadir la cebolla bien picada.</p>
+                </li>
+                <li>
+                    <p>Cuando esté translúcida, echar los ajos prensados, remover, esperar unos segundos y echar el boniato cortado en cubitos y la coliflor también cortada en trocitos. Remover bien.</p>
+                </li>
+                <li>
+                    <p>Echar el agua ya caliente, la sal y también las lentejas y mijo lavados y escurridos. Remover bien. Dejar cocer a fuego bajo-medio hasta que todo esté prácticamente cocido.</p>
+                </li>
+                <li>
+                    <p>Añadir las setas shiitake, limpias y laminadas, la leche de almendras y el curry, remover y acabar de cocer unos minutos más. Rectificar de sal y tapar para que acabe de hacerse con el calor. Si falta algo de cocción, añadir algo más de líquido y continuar a fuego bajo unos minutos más; también se puede añadir algo más de curry si se desea.</p>
+                </li>
+                <li>
+                    <p>Añadir las guarniciones a la hora de servir y un poquito de aceite de oliva virgen extra por encima.</p>
+                </li>
+            </ol>
+        </article>
+        
+    </section>
+    <hr>
+    <footer class="abaix" style="background-color: black;">
+        <nav class="middle">
+            <a class="footer" target="_blank" href="https://www.facebook.com">FACEBOOK</a>
+            <a class="footer" target="_blank" href="https://twitter.com">TWITTER</a>
+            <a class="footer" target="_blank" href="https://www.instagram.com">INSTAGRAM</a>
+            <a class="footer" target="_blank" href="https://www.pinterest.es">PINTEREST</a>
+            <a class="footer" target="_blank" href="https://mail.google.com">EMAIL</a>
+            <a class="footer" target="_blank" href="http://rss.elmundo.es/rss/">RSS</a> 
+        </nav>
+    </footer>
+    <div id='anuncio'>
+        <a href='Javascript:void' onClick='closebar(); return false'><img align='right' border='0' src='http://4.bp.blogspot.com/_dsEG33PDaHw/S66y-66sXXI/AAAAAAAAAOk/0GDe7kdQj4A/s200/icono-cerrar.png'/></a><br />
+        <a href='../Anunci/anunci.html' target="_blank"><div style='background: #9CDDB9;color:#000;border:3px solid #000;padding:5px;text-align:center;font-size:14px;'>Quieres un viaje por menos de 50€?</div></a>
+    </div>
+</body>
+</html>

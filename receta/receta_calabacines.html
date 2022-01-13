@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<!-- *****************************************************
+NOMBRE: Alex
+APELLIDOS: Nadal Viñallonga
+*********************************************************** -->
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="../css/estilo.css" />
+    <title>Receta Calabacines</title>
+    <style type='text/css'>
+        #anuncio {
+        position: absolute;
+        border: 0px;
+        padding: 2px;
+        width: 300px;
+        height: 80px;
+        visibility: hidden;
+        z-index: 200;
+        top: 27px;
+        left: 13px;
+        }
+        </style>
+        
+        
+        <script type='text/javascript'>
+        //<![CDATA[
+        var persistclose=0 //set to 0 or 1. 1 means once the bar is manually closed, it will remain closed for browser session
+        var startX = 30 //set x offset of bar in pixels
+        var startY = 5 //set y offset of bar in pixels
+        var verticalpos="fromtop" //enter "fromtop" or "frombottom"
+        
+        function iecompattest(){
+        return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+        }
+        
+        function get_cookie(Name) {
+        var search = Name + "="
+        var returnvalue = "";
+        if (document.cookie.length > 0) {
+        offset = document.cookie.indexOf(search)
+        if (offset != -1) {
+        offset += search.length
+        end = document.cookie.indexOf(";", offset);
+        if (end == -1) end = document.cookie.length;
+        returnvalue=unescape(document.cookie.substring(offset, end))
+        }
+        }
+        return returnvalue;
+        }
+        
+        function closebar(){
+        if (persistclose)
+        document.cookie="remainclosed=1"
+        document.getElementById("anuncio").style.visibility="hidden"
+        }
+        
+        function staticbar(){
+        barheight=document.getElementById("anuncio").offsetHeight
+        var ns = (navigator.appName.indexOf("Netscape") != -1) || window.opera;
+        var d = document;
+        function ml(id){
+        var el=d.getElementById(id);
+        if (!persistclose || persistclose && get_cookie("remainclosed")=="")
+        el.style.visibility="visible"
+        if(d.layers)el.style=el;
+        el.sP=function(x,y){this.style.left=x+"px";this.style.top=y+"px";};
+        el.x = startX;
+        if (verticalpos=="fromtop")
+        el.y = startY;
+        else{
+        el.y = ns ? pageYOffset + innerHeight : iecompattest().scrollTop + iecompattest().clientHeight;
+        el.y -= startY;
+        }
+        return el;
+        }
+        window.stayTopLeft=function(){
+        if (verticalpos=="fromtop"){
+        var pY = ns ? pageYOffset : iecompattest().scrollTop;
+        ftlObj.y += (pY + startY - ftlObj.y)/8;
+        }
+        else{
+        var pY = ns ? pageYOffset + innerHeight - barheight: iecompattest().scrollTop + iecompattest().clientHeight - barheight;
+        ftlObj.y += (pY - startY - ftlObj.y)/8;
+        }
+        ftlObj.sP(ftlObj.x, ftlObj.y);
+        setTimeout("stayTopLeft()", 10);
+        }
+        ftlObj = ml("anuncio");
+        stayTopLeft();
+        }
+        if (window.addEventListener)
+        window.addEventListener("load", staticbar, false)
+        else if (window.attachEvent)
+        window.attachEvent("onload", staticbar)
+        else if (document.getElementById)
+        window.onload=staticbar
+        //]]>
+        </script>
+</head>
+<body class="body_galetes">
+    <header class="sticky" style="text-align: center;">
+        <img alt="Logo" src="../imagenes/delicias.png">
+        <hr color="#8A8070">
+        <div>
+            <nav>
+                <a class="lletra" href="../index.html">INICIO</a>
+                <a class="lletra" href="">SOBRE MÍ</a>
+                <a class="lletra" href="../listado/listado.html">RECETAS</a>
+                <a class="lletra" href="../contacto/contacto.html">CONTACTO</a>
+                <a class="lletra" href="../xsl/recetas.xml">OTRAS COSAS</a> 
+                <a class="lletra" href="../xsl/recetas.xml">NOVES RECEPTES</a>
+            </nav>
+        </div>
+        <hr color="#8A8070">
+    </header>
+    
+    <aside class="dreta">
+        <header class="centrar2">
+            <h3>Sobre mí</h3>
+            <img width="80%" alt="Foto señora" src="../imagenes/isagil.png">
+            <p>Hola bienvenid@ a mi blog, un espacio<br>
+                donde quiero compartir mis recetas<br>
+                vegetaríanas y veganas favoritas...
+            </p>
+        </header>
+        <nav class="centrar" style="background-color:lightgrey;">
+            <h3>Suscribete a mi blog</h3>
+            <img class="baixar" alt="foto libro" src="../imagenes/libro.png">
+            <p>Y consigue GRATIS mi eBook con 10 <br>
+            recetas excluisvas con superalimentos</p>
+        </nav>
+        <footer>
+            <h4 class="descentrar">Apúntame</h4>
+        </footer>
+    </aside>
+    
+    <section class="mig2, body_galetes">
+        <H1 style="font-family: Gill Sans MT;">
+            Calabacines rellenos de arroz negro y calabaza
+        </H1>
+        <p style="text-align: left;font-size: 15px;">Isa Gil</p>   
+        <p style="text-align: left;font-size: 15px;">23 de Novembre 2021</p>
+        
+        <hr>
+        <img style="margin-left: 7%;" class="top" width="50%" height="40%" alt="galetes" src="../imagenes/calabacines.jpg">
+    
+        <p>
+            Estos calabacines rellenos de arroz negro y calabaza
+que te propongo hoy, son la última receta que publico
+en el blog en…
+        </p>
+        <br>
+        <article class="fons">
+            <h3><b><u>Ingredientes:</u></b></h3>
+             <ul>
+                <li>
+                    <p>2 calabacines medianos</p>
+                </li>
+                <li>
+                    <p>1 cebolla mediana</p>
+                </li>
+                <li>
+                    <p>2 cucharadas de aceite de oliva virgen extra</p>
+                </li>
+                <li>
+                    <p>1 diente de ajo</p>
+                </li>
+                <li>
+                    <p>½–¾ de cucharadita de canela en polvo</p>
+                </li>
+                <li>
+                    <p>1 taza de calabaza a cuadritos cocida (al horno o al vapor)</p>
+                </li>
+                <li>
+                    <p>1 taza de arroz negro cocido</p>
+                </li>
+                <li>
+                    <p>2 cucharadas de nata vegetal de tu elección (yo he utilizado de soja)</p>
+                </li>
+                <li>
+                    <p>sal al gusto</p>
+                </li>
+                <li>
+                    <p>Queso mozzarella y parmesano rallado al gusto</p>
+                </li>
+            </ul>
+            <br>
+            <h3><b><u>Preparacion:</u></b></h3>
+            <ol>
+                <li>
+                    <p>Hornear calabacines: En el horno precalentado a 180ºC, pondremos a hornear los calabacines partidos por la mitad en una bandeja de horno con un poco de aceite en la base para que no se peguen, entre 150-180ºC (dependiendo del horno), hasta que estén al dente y la pulpa tierna (más o menos 1 hora y ¼, pero depende del horno).</p>
+                </li>
+                <li>
+                    <p>Hornear la calabaza: Al mismo tiempo, yo aprovecho para hornear la calabaza a cortada a cuadritos, también hasta que esté tierna, removiéndola si es necesario para que no se queme (pueden tardar tiempos diferentes) o también la puedes hacer al vapor.</p>
+                </li>
+                <li>
+                    <p>Cocer el arroz: Mientras cocer el arroz en 1 medida de arroz por 2 y ¼ medidas de agua, después de lavarlo bien, hasta que se consuma todo el líquido.</p>
+                </li>
+                <li>
+                    <p>Quitar la pulpa: Cuando estén los calabacines, quitar la pulpa con una cuchara y reservarla.</p>
+                </li>
+                <li>
+                    <p>Sofreír: En una sartén, sofreír en un poco de aceite la cebolla picada, cuando esté transparente añadir el ajo triturado, la calabaza, la pulpa deshecha de los calabacines, la canela, la sal al gusto y la nata. Remover bien para que se integre todo.</p>
+                </li>
+                <li>
+                    <p>Rellenar: Rellenar los calabacines con esta mezcla, dejando espacio para añadir encima un poco de arroz cocido, un poco de mozzarella y parmesano (o cualquier queso vegano que funda y gratine)</p>
+                </li>
+                <li>
+                    <p>Gratinar y servir: Gratinar y servir con cilantro fresco o cualquier otra aromática fresca si se desea.</p>
+                </li>
+            </ol>
+        </article>
+        
+    </section>
+    <hr>
+    <footer class="abaix" style="background-color: black;">
+        <nav class="middle">
+            <a class="footer" target="_blank" href="https://www.facebook.com">FACEBOOK</a>
+            <a class="footer" target="_blank" href="https://twitter.com">TWITTER</a>
+            <a class="footer" target="_blank" href="https://www.instagram.com">INSTAGRAM</a>
+            <a class="footer" target="_blank" href="https://www.pinterest.es">PINTEREST</a>
+            <a class="footer" target="_blank" href="https://mail.google.com">EMAIL</a>
+            <a class="footer" target="_blank" href="http://rss.elmundo.es/rss/">RSS</a> 
+        </nav>
+    </footer>
+    <div id='anuncio'>
+        <a href='Javascript:void' onClick='closebar(); return false'><img align='right' border='0' src='http://4.bp.blogspot.com/_dsEG33PDaHw/S66y-66sXXI/AAAAAAAAAOk/0GDe7kdQj4A/s200/icono-cerrar.png'/></a><br />
+        <a href='../Anunci/anunci.html' target="_blank"><div style='background: #9CDDB9;color:#000;border:3px solid #000;padding:5px;text-align:center;font-size:14px;'>Quieres un viaje por menos de 50€?</div></a>
+    </div>
+</body>
+</html>
