@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="template.xslt"?>
+<catalog>
+  <cd>
+    <title>Pasta con salsa de coliflor y pimienta de Jamaica</title>
+    <artist>Isa Gil</artist>
+    <date>23 de Novembre</date>
+    <year>2021</year>
+    <imatge>../imagenes/Pasta.jpg</imatge>
+    <resum>Una salsa vegana para la pasta, tan sabrosa y cremosa que resulta irresistible! Está elaborada con coliflor y con otros ingredientes vegetales, que la convierten en…</resum>
+    <ingr>Ingredients:</ingr>
+    <ingredients>
+        <ingredient>4 cucharadas de aceite de oliva virgen extra</ingredient>
+        <ingredient>1 cebolla hermosa</ingredient>
+        <ingredient>4 dientes de ajo</ingredient>
+        <ingredient>500g de coliflor</ingredient>
+        <ingredient>2 tazas de caldo vegetal</ingredient>
+        <ingredient>2 cucharadas de levadura nutricional</ingredient>
+        <ingredient>½ taza de leche de almendras</ingredient>
+        <ingredient>sal</ingredient>
+    </ingredients>
+    <prep>Preparació:</prep>
+    <preparacions>
+        <preparacio>1. Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</preparacio>
+        <preparacio>2. Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más.</preparacio>
+        <preparacio>3. Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté tierna, seguramente se consumirá gran parte del líquido.</preparacio>
+        <preparacio>4. Echaremos la preparación en el vaso de la Vitamix y añadiremos la leche, la levadura, los granos de pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</preparacio>
+        <preparacio>5. Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</preparacio>
+    </preparacions>
+  
+  </cd>
+  <cd>
+    <title>Galletas de Avena, Rosa y Lima</title>
+    <artist>Isa Gil</artist>
+    <date>23 de Novembre</date>
+    <year>2021</year>
+    <imatge>../imagenes/galletas.jpg</imatge>
+    <resum>Galletitas para San Valentín? Estas galletas ricas y crujientes, elaboradas con avena y con un rico sabor a rosa y lima son perfectas para celebrarlo!</resum>
+    <ingr>Ingredients:</ingr>
+    <ingredients>
+        <ingredient>3/4 taza de harina de avena</ingredient>
+        <ingredient>1/4 taza de azúcar de coco</ingredient>
+        <ingredient>1/2 cucharada de semillas de lino trirurado</ingredient>
+        <ingredient>2 cucharadas de agua</ingredient>
+        <ingredient>4 gotas de esencia rosa</ingredient>
+        <ingredient>40ml de aceite de oliva virgen extra</ingredient>
+        <ingredient>1/2 lima rallada (solo piel)</ingredient>
+        <ingredient>Un poco de ágave en polvo a algún endulzante en polvo blanco para decorar (opcional)</ingredient>
+    </ingredients>
+    <prep>Preparació:</prep>
+    <preparacions>
+        <preparacio>1. Echaremos todos los ingredientes de la masa de galletas en un bol y amasaremos un poco para que se mezcle todo bien. Dejaremos enfriar un rato en la nevera o unos minutos en el congelador para manipularla mejor y más cómodamente, aunque puede no ser necesario.</preparacio>
+        <preparacio>2. Estiraremos la masa con un rodillo y a un grosor de ½cm y con un cortapastas les haremos la forma, utilizando uno más pequeño para quitar el centro de la mitad de ellas. En el horno previamente caliente, hornearemos a 180ºC hasta que empiecen a estar doradas, más o menos unos 12 minutos, aunque cada horno es diferente y hay que estar al tanto para que no se nos quemen.</preparacio>
+        <preparacio>3. Las sacaremos y las dejarmenos enfriar en una rejilla para que queden crujientes. Cuando estén frías las espolvorearemos con un poco de ágave en polvo, para darle un bonito toque nevadito.</preparacio>
+        <preparacio>4. Para hacer la mermelada, echaremos todos los ingredientes en una olla pequeña, a fuego medio llevaremos a ebullición, bajeremos el fuego y coceremos unos 5 minutos removiendo, hasta que espese un poco. Apagaremos el fuego y dejaremos enfriar, pero no del todo, porque si no se queda dura. Cuando esté templada, pero algo firme, rellenaremos las galletas poniendo una cucharadita en el centro de una sin agujero y cubriendo con una que tenga el hueco para que se vea.</preparacio>
+        <preparacio>5. La mermelada en contacto con las galletas hace que si pasan muchas horas hasta su consumo, al aportarles humedad, estas se reblandecen y ya no están crujientes. Por lo que si las vas a preparar rellenas, es mejor prepararlas un rato antes de consumirlas, o no rellenarlas, guardarlas en un recipiente hermético, cuando estén frías y preparar el relleno un rato antes de servirlas.</preparacio>
+    </preparacions>
+  </cd>
+
+  <cd>
+    <title>Mijo cremoso con lentejas, hortalizas y shiitake</title>
+    <artist>Isa Gil</artist>
+    <date>23 de Novembre</date>
+    <year>2021</year>
+    <imatge>../imagenes/mijo.jpg</imatge>
+    <resum>Un buen plato de mijo cremoso con lentejas y hortalizas es todo lo que necesitas para templar el cuerpo este invierno! Delicioso y fácil!</resum>
+    <ingr>Ingredients:</ingr>
+    <ingredients>
+        <ingredient>2 cucharadas de aceite de oliva virgen extra</ingredient>
+        <ingredient>1 cebolla grande</ingredient>
+        <ingredient>2 dientes de ajo</ingredient>
+        <ingredient>300 g de boniato pelado</ingredient>
+        <ingredient>300 g de coliflor (parte blanca, sin el tronco)</ingredient>
+        <ingredient>500 ml de agua</ingredient>
+        <ingredient>1/2 taza de mijo</ingredient>
+        <ingredient>1/2 taza de lentejas rojas partidas</ingredient>
+        <ingredient>1 cucharadita de sal</ingredient>
+        <ingredient>5 o 6 setas shiitake (unos 100 g)</ingredient>
+        <ingredient>1 taza de leche de almendras sin endulzar</ingredient>
+        <ingredient>1/2 cucharadita de curry en polvo</ingredient>
+    </ingredients>
+    <prep>Preparació:</prep>
+    <preparacions>
+        <preparacio>1. Echar las 2 cucharadas de aceite de oliva virgen extra en una olla, calentar y añadir la cebolla bien picada.</preparacio>
+        <preparacio>2. Cuando esté translúcida, echar los ajos prensados, remover, esperar unos segundos y echar el boniato cortado en cubitos y la coliflor también cortada en trocitos. Remover bien.</preparacio>
+        <preparacio>3. Echar el agua ya caliente, la sal y también las lentejas y mijo lavados y escurridos. Remover bien. Dejar cocer a fuego bajo-medio hasta que todo esté prácticamente cocido.</preparacio>
+        <preparacio>4. Añadir las setas shiitake, limpias y laminadas, la leche de almendras y el curry, remover y acabar de cocer unos minutos más. Rectificar de sal y tapar para que acabe de hacerse con el calor. Si falta algo de cocción, añadir algo más de líquido y continuar a fuego bajo unos minutos más; también se puede añadir algo más de curry si se desea.</preparacio>
+        <preparacio>5. Añadir las guarniciones a la hora de servir y un poquito de aceite de oliva virgen extra por encima.</preparacio>
+    </preparacions>
+  </cd>
+
+  <cd>
+    <title>Calabacines rellenos de arroz negro y calabaza</title>
+    <artist>Isa Gil</artist>
+    <date>23 de Novembre</date>
+    <year>2021</year>
+    <imatge>../imagenes/calabacines.jpg</imatge>
+    <resum>Estos calabacines rellenos de arroz negro y calabaza que te propongo hoy, son la última receta que publico en el blog en…</resum>
+    <ingr>Ingredients:</ingr>
+    <ingredients>
+        <ingredient>2 calabacines medianos</ingredient>
+        <ingredient>1 cebolla mediana</ingredient>
+        <ingredient>2 cucharadas de aceite de oliva virgen extra</ingredient>
+        <ingredient>1 diente de ajo</ingredient>
+        <ingredient>½–¾ de cucharadita de canela en polvo</ingredient>
+        <ingredient>1 taza de calabaza a cuadritos cocida (al horno o al vapor)</ingredient>
+        <ingredient>1 taza de arroz negro cocido</ingredient>
+        <ingredient>2 cucharadas de nata vegetal de tu elección (yo he utilizado de soja)</ingredient>
+        <ingredient>sal al gusto</ingredient>
+        <ingredient>Queso mozzarella y parmesano rallado al gusto</ingredient>
+    </ingredients>
+    <prep>Preparació:</prep>
+    <preparacions>
+        <preparacio>1. Hornear calabacines: En el horno precalentado a 180ºC, pondremos a hornear los calabacines partidos por la mitad en una bandeja de horno con un poco de aceite en la base para que no se peguen, entre 150-180ºC (dependiendo del horno), hasta que estén al dente y la pulpa tierna (más o menos 1 hora y ¼, pero depende del horno).</preparacio>
+        <preparacio>2. Hornear la calabaza: Al mismo tiempo, yo aprovecho para hornear la calabaza a cortada a cuadritos, también hasta que esté tierna, removiéndola si es necesario para que no se queme (pueden tardar tiempos diferentes) o también la puedes hacer al vapor.</preparacio>
+        <preparacio>3. Cocer el arroz: Mientras cocer el arroz en 1 medida de arroz por 2 y ¼ medidas de agua, después de lavarlo bien, hasta que se consuma todo el líquido.</preparacio>
+        <preparacio>4. Quitar la pulpa: Cuando estén los calabacines, quitar la pulpa con una cuchara y reservarla.</preparacio>
+        <preparacio>5. Sofreír: En una sartén, sofreír en un poco de aceite la cebolla picada, cuando esté transparente añadir el ajo triturado, la calabaza, la pulpa deshecha de los calabacines, la canela, la sal al gusto y la nata. Remover bien para que se integre todo.</preparacio>
+        <preparacio>6. Rellenar: Rellenar los calabacines con esta mezcla, dejando espacio para añadir encima un poco de arroz cocido, un poco de mozzarella y parmesano (o cualquier queso vegano que funda y gratine)</preparacio>
+        <preparacio>7. Gratinar y servir: Gratinar y servir con cilantro fresco o cualquier otra aromática fresca si se desea.</preparacio>
+    </preparacions>
+  </cd>
+
+  <cd>
+    <title>Pasta con salsa de coliflor y pimienta de Jamaica</title>
+    <artist>Isa Gil</artist>
+    <date>23 de Novembre</date>
+    <year>2021</year>
+    <imatge>../imagenes/Pasta.jpg</imatge>
+    <resum>Una salsa vegana para la pasta, tan sabrosa y cremosa que resulta irresistible! Está elaborada con coliflor y con otros ingredientes vegetales, que la convierten en…</resum>
+    <ingr>Ingredients:</ingr>
+    <ingredients>
+        <ingredient>4 cucharadas de aceite de oliva virgen extra</ingredient>
+        <ingredient>1 cebolla hermosa</ingredient>
+        <ingredient>4 dientes de ajo</ingredient>
+        <ingredient>500g de coliflor</ingredient>
+        <ingredient>2 tazas de caldo vegetal</ingredient>
+        <ingredient>2 cucharadas de levadura nutricional</ingredient>
+        <ingredient>½ taza de leche de almendras</ingredient>
+        <ingredient>sal</ingredient>
+    </ingredients>
+    <prep>Preparació:</prep>
+    <preparacions>
+        <preparacio>1. Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</preparacio>
+        <preparacio>2. Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más.</preparacio>
+        <preparacio>3. Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté tierna, seguramente se consumirá gran parte del líquido.</preparacio>
+        <preparacio>4. Echaremos la preparación en el vaso de la Vitamix y añadiremos la leche, la levadura, los granos de pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</preparacio>
+        <preparacio>5. Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</preparacio>
+    </preparacions>
+  
+  </cd>
+  <cd>
+    <title>Galletas de Avena, Rosa y Lima</title>
+    <artist>Isa Gil</artist>
+    <date>23 de Novembre</date>
+    <year>2021</year>
+    <imatge>../imagenes/galletas.jpg</imatge>
+    <resum>Galletitas para San Valentín? Estas galletas ricas y crujientes, elaboradas con avena y con un rico sabor a rosa y lima son perfectas para celebrarlo!</resum>
+    <ingr>Ingredients:</ingr>
+    <ingredients>
+        <ingredient>3/4 taza de harina de avena</ingredient>
+        <ingredient>1/4 taza de azúcar de coco</ingredient>
+        <ingredient>1/2 cucharada de semillas de lino trirurado</ingredient>
+        <ingredient>2 cucharadas de agua</ingredient>
+        <ingredient>4 gotas de esencia rosa</ingredient>
+        <ingredient>40ml de aceite de oliva virgen extra</ingredient>
+        <ingredient>1/2 lima rallada (solo piel)</ingredient>
+        <ingredient>Un poco de ágave en polvo a algún endulzante en polvo blanco para decorar (opcional)</ingredient>
+    </ingredients>
+    <prep>Preparació:</prep>
+    <preparacions>
+        <preparacio>1. Echaremos todos los ingredientes de la masa de galletas en un bol y amasaremos un poco para que se mezcle todo bien. Dejaremos enfriar un rato en la nevera o unos minutos en el congelador para manipularla mejor y más cómodamente, aunque puede no ser necesario.</preparacio>
+        <preparacio>2. Estiraremos la masa con un rodillo y a un grosor de ½cm y con un cortapastas les haremos la forma, utilizando uno más pequeño para quitar el centro de la mitad de ellas. En el horno previamente caliente, hornearemos a 180ºC hasta que empiecen a estar doradas, más o menos unos 12 minutos, aunque cada horno es diferente y hay que estar al tanto para que no se nos quemen.</preparacio>
+        <preparacio>3. Las sacaremos y las dejarmenos enfriar en una rejilla para que queden crujientes. Cuando estén frías las espolvorearemos con un poco de ágave en polvo, para darle un bonito toque nevadito.</preparacio>
+        <preparacio>4. Para hacer la mermelada, echaremos todos los ingredientes en una olla pequeña, a fuego medio llevaremos a ebullición, bajeremos el fuego y coceremos unos 5 minutos removiendo, hasta que espese un poco. Apagaremos el fuego y dejaremos enfriar, pero no del todo, porque si no se queda dura. Cuando esté templada, pero algo firme, rellenaremos las galletas poniendo una cucharadita en el centro de una sin agujero y cubriendo con una que tenga el hueco para que se vea.</preparacio>
+        <preparacio>5. La mermelada en contacto con las galletas hace que si pasan muchas horas hasta su consumo, al aportarles humedad, estas se reblandecen y ya no están crujientes. Por lo que si las vas a preparar rellenas, es mejor prepararlas un rato antes de consumirlas, o no rellenarlas, guardarlas en un recipiente hermético, cuando estén frías y preparar el relleno un rato antes de servirlas.</preparacio>
+    </preparacions>
+  </cd>
+
+  <cd>
+    <title>Mijo cremoso con lentejas, hortalizas y shiitake</title>
+    <artist>Isa Gil</artist>
+    <date>23 de Novembre</date>
+    <year>2021</year>
+    <imatge>../imagenes/mijo.jpg</imatge>
+    <resum>Un buen plato de mijo cremoso con lentejas y hortalizas es todo lo que necesitas para templar el cuerpo este invierno! Delicioso y fácil!</resum>
+    <ingr>Ingredients:</ingr>
+    <ingredients>
+        <ingredient>2 cucharadas de aceite de oliva virgen extra</ingredient>
+        <ingredient>1 cebolla grande</ingredient>
+        <ingredient>2 dientes de ajo</ingredient>
+        <ingredient>300 g de boniato pelado</ingredient>
+        <ingredient>300 g de coliflor (parte blanca, sin el tronco)</ingredient>
+        <ingredient>500 ml de agua</ingredient>
+        <ingredient>1/2 taza de mijo</ingredient>
+        <ingredient>1/2 taza de lentejas rojas partidas</ingredient>
+        <ingredient>1 cucharadita de sal</ingredient>
+        <ingredient>5 o 6 setas shiitake (unos 100 g)</ingredient>
+        <ingredient>1 taza de leche de almendras sin endulzar</ingredient>
+        <ingredient>1/2 cucharadita de curry en polvo</ingredient>
+    </ingredients>
+    <prep>Preparació:</prep>
+    <preparacions>
+        <preparacio>1. Echar las 2 cucharadas de aceite de oliva virgen extra en una olla, calentar y añadir la cebolla bien picada.</preparacio>
+        <preparacio>2. Cuando esté translúcida, echar los ajos prensados, remover, esperar unos segundos y echar el boniato cortado en cubitos y la coliflor también cortada en trocitos. Remover bien.</preparacio>
+        <preparacio>3. Echar el agua ya caliente, la sal y también las lentejas y mijo lavados y escurridos. Remover bien. Dejar cocer a fuego bajo-medio hasta que todo esté prácticamente cocido.</preparacio>
+        <preparacio>4. Añadir las setas shiitake, limpias y laminadas, la leche de almendras y el curry, remover y acabar de cocer unos minutos más. Rectificar de sal y tapar para que acabe de hacerse con el calor. Si falta algo de cocción, añadir algo más de líquido y continuar a fuego bajo unos minutos más; también se puede añadir algo más de curry si se desea.</preparacio>
+        <preparacio>5. Añadir las guarniciones a la hora de servir y un poquito de aceite de oliva virgen extra por encima.</preparacio>
+    </preparacions>
+  </cd>
+
+  <cd>
+    <title>Calabacines rellenos de arroz negro y calabaza</title>
+    <artist>Isa Gil</artist>
+    <date>23 de Novembre</date>
+    <year>2021</year>
+    <imatge>../imagenes/calabacines.jpg</imatge>
+    <resum>Estos calabacines rellenos de arroz negro y calabaza que te propongo hoy, son la última receta que publico en el blog en…</resum>
+    <ingr>Ingredients:</ingr>
+    <ingredients>
+        <ingredient>2 calabacines medianos</ingredient>
+        <ingredient>1 cebolla mediana</ingredient>
+        <ingredient>2 cucharadas de aceite de oliva virgen extra</ingredient>
+        <ingredient>1 diente de ajo</ingredient>
+        <ingredient>½–¾ de cucharadita de canela en polvo</ingredient>
+        <ingredient>1 taza de calabaza a cuadritos cocida (al horno o al vapor)</ingredient>
+        <ingredient>1 taza de arroz negro cocido</ingredient>
+        <ingredient>2 cucharadas de nata vegetal de tu elección (yo he utilizado de soja)</ingredient>
+        <ingredient>sal al gusto</ingredient>
+        <ingredient>Queso mozzarella y parmesano rallado al gusto</ingredient>
+    </ingredients>
+    <prep>Preparació:</prep>
+    <preparacions>
+        <preparacio>1. Hornear calabacines: En el horno precalentado a 180ºC, pondremos a hornear los calabacines partidos por la mitad en una bandeja de horno con un poco de aceite en la base para que no se peguen, entre 150-180ºC (dependiendo del horno), hasta que estén al dente y la pulpa tierna (más o menos 1 hora y ¼, pero depende del horno).</preparacio>
+        <preparacio>2. Hornear la calabaza: Al mismo tiempo, yo aprovecho para hornear la calabaza a cortada a cuadritos, también hasta que esté tierna, removiéndola si es necesario para que no se queme (pueden tardar tiempos diferentes) o también la puedes hacer al vapor.</preparacio>
+        <preparacio>3. Cocer el arroz: Mientras cocer el arroz en 1 medida de arroz por 2 y ¼ medidas de agua, después de lavarlo bien, hasta que se consuma todo el líquido.</preparacio>
+        <preparacio>4. Quitar la pulpa: Cuando estén los calabacines, quitar la pulpa con una cuchara y reservarla.</preparacio>
+        <preparacio>5. Sofreír: En una sartén, sofreír en un poco de aceite la cebolla picada, cuando esté transparente añadir el ajo triturado, la calabaza, la pulpa deshecha de los calabacines, la canela, la sal al gusto y la nata. Remover bien para que se integre todo.</preparacio>
+        <preparacio>6. Rellenar: Rellenar los calabacines con esta mezcla, dejando espacio para añadir encima un poco de arroz cocido, un poco de mozzarella y parmesano (o cualquier queso vegano que funda y gratine)</preparacio>
+        <preparacio>7. Gratinar y servir: Gratinar y servir con cilantro fresco o cualquier otra aromática fresca si se desea.</preparacio>
+    </preparacions>
+  </cd>
+
+  <cd>
+    <title>Pasta con salsa de coliflor y pimienta de Jamaica</title>
+    <artist>Isa Gil</artist>
+    <date>23 de Novembre</date>
+    <year>2021</year>
+    <imatge>../imagenes/Pasta.jpg</imatge>
+    <resum>Una salsa vegana para la pasta, tan sabrosa y cremosa que resulta irresistible! Está elaborada con coliflor y con otros ingredientes vegetales, que la convierten en…</resum>
+    <ingr>Ingredients:</ingr>
+    <ingredients>
+        <ingredient>4 cucharadas de aceite de oliva virgen extra</ingredient>
+        <ingredient>1 cebolla hermosa</ingredient>
+        <ingredient>4 dientes de ajo</ingredient>
+        <ingredient>500g de coliflor</ingredient>
+        <ingredient>2 tazas de caldo vegetal</ingredient>
+        <ingredient>2 cucharadas de levadura nutricional</ingredient>
+        <ingredient>½ taza de leche de almendras</ingredient>
+        <ingredient>sal</ingredient>
+    </ingredients>
+    <prep>Preparació:</prep>
+    <preparacions>
+        <preparacio>1. Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</preparacio>
+        <preparacio>2. Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más.</preparacio>
+        <preparacio>3. Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté tierna, seguramente se consumirá gran parte del líquido.</preparacio>
+        <preparacio>4. Echaremos la preparación en el vaso de la Vitamix y añadiremos la leche, la levadura, los granos de pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</preparacio>
+        <preparacio>5. Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</preparacio>
+    </preparacions>
+  
+  </cd>
+  <cd>
+    <title>Galletas de Avena, Rosa y Lima</title>
+    <artist>Isa Gil</artist>
+    <date>23 de Novembre</date>
+    <year>2021</year>
+    <imatge>../imagenes/galletas.jpg</imatge>
+    <resum>Galletitas para San Valentín? Estas galletas ricas y crujientes, elaboradas con avena y con un rico sabor a rosa y lima son perfectas para celebrarlo!</resum>
+    <ingr>Ingredients:</ingr>
+    <ingredients>
+        <ingredient>3/4 taza de harina de avena</ingredient>
+        <ingredient>1/4 taza de azúcar de coco</ingredient>
+        <ingredient>1/2 cucharada de semillas de lino trirurado</ingredient>
+        <ingredient>2 cucharadas de agua</ingredient>
+        <ingredient>4 gotas de esencia rosa</ingredient>
+        <ingredient>40ml de aceite de oliva virgen extra</ingredient>
+        <ingredient>1/2 lima rallada (solo piel)</ingredient>
+        <ingredient>Un poco de ágave en polvo a algún endulzante en polvo blanco para decorar (opcional)</ingredient>
+    </ingredients>
+    <prep>Preparació:</prep>
+    <preparacions>
+        <preparacio>1. Echaremos todos los ingredientes de la masa de galletas en un bol y amasaremos un poco para que se mezcle todo bien. Dejaremos enfriar un rato en la nevera o unos minutos en el congelador para manipularla mejor y más cómodamente, aunque puede no ser necesario.</preparacio>
+        <preparacio>2. Estiraremos la masa con un rodillo y a un grosor de ½cm y con un cortapastas les haremos la forma, utilizando uno más pequeño para quitar el centro de la mitad de ellas. En el horno previamente caliente, hornearemos a 180ºC hasta que empiecen a estar doradas, más o menos unos 12 minutos, aunque cada horno es diferente y hay que estar al tanto para que no se nos quemen.</preparacio>
+        <preparacio>3. Las sacaremos y las dejarmenos enfriar en una rejilla para que queden crujientes. Cuando estén frías las espolvorearemos con un poco de ágave en polvo, para darle un bonito toque nevadito.</preparacio>
+        <preparacio>4. Para hacer la mermelada, echaremos todos los ingredientes en una olla pequeña, a fuego medio llevaremos a ebullición, bajeremos el fuego y coceremos unos 5 minutos removiendo, hasta que espese un poco. Apagaremos el fuego y dejaremos enfriar, pero no del todo, porque si no se queda dura. Cuando esté templada, pero algo firme, rellenaremos las galletas poniendo una cucharadita en el centro de una sin agujero y cubriendo con una que tenga el hueco para que se vea.</preparacio>
+        <preparacio>5. La mermelada en contacto con las galletas hace que si pasan muchas horas hasta su consumo, al aportarles humedad, estas se reblandecen y ya no están crujientes. Por lo que si las vas a preparar rellenas, es mejor prepararlas un rato antes de consumirlas, o no rellenarlas, guardarlas en un recipiente hermético, cuando estén frías y preparar el relleno un rato antes de servirlas.</preparacio>
+    </preparacions>
+  </cd>
+
+  <cd>
+    <title>Mijo cremoso con lentejas, hortalizas y shiitake</title>
+    <artist>Isa Gil</artist>
+    <date>23 de Novembre</date>
+    <year>2021</year>
+    <imatge>../imagenes/mijo.jpg</imatge>
+    <resum>Un buen plato de mijo cremoso con lentejas y hortalizas es todo lo que necesitas para templar el cuerpo este invierno! Delicioso y fácil!</resum>
+    <ingr>Ingredients:</ingr>
+    <ingredients>
+        <ingredient>2 cucharadas de aceite de oliva virgen extra</ingredient>
+        <ingredient>1 cebolla grande</ingredient>
+        <ingredient>2 dientes de ajo</ingredient>
+        <ingredient>300 g de boniato pelado</ingredient>
+        <ingredient>300 g de coliflor (parte blanca, sin el tronco)</ingredient>
+        <ingredient>500 ml de agua</ingredient>
+        <ingredient>1/2 taza de mijo</ingredient>
+        <ingredient>1/2 taza de lentejas rojas partidas</ingredient>
+        <ingredient>1 cucharadita de sal</ingredient>
+        <ingredient>5 o 6 setas shiitake (unos 100 g)</ingredient>
+        <ingredient>1 taza de leche de almendras sin endulzar</ingredient>
+        <ingredient>1/2 cucharadita de curry en polvo</ingredient>
+    </ingredients>
+    <prep>Preparació:</prep>
+    <preparacions>
+        <preparacio>1. Echar las 2 cucharadas de aceite de oliva virgen extra en una olla, calentar y añadir la cebolla bien picada.</preparacio>
+        <preparacio>2. Cuando esté translúcida, echar los ajos prensados, remover, esperar unos segundos y echar el boniato cortado en cubitos y la coliflor también cortada en trocitos. Remover bien.</preparacio>
+        <preparacio>3. Echar el agua ya caliente, la sal y también las lentejas y mijo lavados y escurridos. Remover bien. Dejar cocer a fuego bajo-medio hasta que todo esté prácticamente cocido.</preparacio>
+        <preparacio>4. Añadir las setas shiitake, limpias y laminadas, la leche de almendras y el curry, remover y acabar de cocer unos minutos más. Rectificar de sal y tapar para que acabe de hacerse con el calor. Si falta algo de cocción, añadir algo más de líquido y continuar a fuego bajo unos minutos más; también se puede añadir algo más de curry si se desea.</preparacio>
+        <preparacio>5. Añadir las guarniciones a la hora de servir y un poquito de aceite de oliva virgen extra por encima.</preparacio>
+    </preparacions>
+  </cd>
+
+  <cd>
+    <title>Calabacines rellenos de arroz negro y calabaza</title>
+    <artist>Isa Gil</artist>
+    <date>23 de Novembre</date>
+    <year>2021</year>
+    <imatge>../imagenes/calabacines.jpg</imatge>
+    <resum>Estos calabacines rellenos de arroz negro y calabaza que te propongo hoy, son la última receta que publico en el blog en…</resum>
+    <ingr>Ingredients:</ingr>
+    <ingredients>
+        <ingredient>2 calabacines medianos</ingredient>
+        <ingredient>1 cebolla mediana</ingredient>
+        <ingredient>2 cucharadas de aceite de oliva virgen extra</ingredient>
+        <ingredient>1 diente de ajo</ingredient>
+        <ingredient>½–¾ de cucharadita de canela en polvo</ingredient>
+        <ingredient>1 taza de calabaza a cuadritos cocida (al horno o al vapor)</ingredient>
+        <ingredient>1 taza de arroz negro cocido</ingredient>
+        <ingredient>2 cucharadas de nata vegetal de tu elección (yo he utilizado de soja)</ingredient>
+        <ingredient>sal al gusto</ingredient>
+        <ingredient>Queso mozzarella y parmesano rallado al gusto</ingredient>
+    </ingredients>
+    <prep>Preparació:</prep>
+    <preparacions>
+        <preparacio>1. Hornear calabacines: En el horno precalentado a 180ºC, pondremos a hornear los calabacines partidos por la mitad en una bandeja de horno con un poco de aceite en la base para que no se peguen, entre 150-180ºC (dependiendo del horno), hasta que estén al dente y la pulpa tierna (más o menos 1 hora y ¼, pero depende del horno).</preparacio>
+        <preparacio>2. Hornear la calabaza: Al mismo tiempo, yo aprovecho para hornear la calabaza a cortada a cuadritos, también hasta que esté tierna, removiéndola si es necesario para que no se queme (pueden tardar tiempos diferentes) o también la puedes hacer al vapor.</preparacio>
+        <preparacio>3. Cocer el arroz: Mientras cocer el arroz en 1 medida de arroz por 2 y ¼ medidas de agua, después de lavarlo bien, hasta que se consuma todo el líquido.</preparacio>
+        <preparacio>4. Quitar la pulpa: Cuando estén los calabacines, quitar la pulpa con una cuchara y reservarla.</preparacio>
+        <preparacio>5. Sofreír: En una sartén, sofreír en un poco de aceite la cebolla picada, cuando esté transparente añadir el ajo triturado, la calabaza, la pulpa deshecha de los calabacines, la canela, la sal al gusto y la nata. Remover bien para que se integre todo.</preparacio>
+        <preparacio>6. Rellenar: Rellenar los calabacines con esta mezcla, dejando espacio para añadir encima un poco de arroz cocido, un poco de mozzarella y parmesano (o cualquier queso vegano que funda y gratine)</preparacio>
+        <preparacio>7. Gratinar y servir: Gratinar y servir con cilantro fresco o cualquier otra aromática fresca si se desea.</preparacio>
+    </preparacions>
+  </cd>
+
+  <cd>
+    <title>Pasta con salsa de coliflor y pimienta de Jamaica</title>
+    <artist>Isa Gil</artist>
+    <date>23 de Novembre</date>
+    <year>2021</year>
+    <imatge>../imagenes/Pasta.jpg</imatge>
+    <resum>Una salsa vegana para la pasta, tan sabrosa y cremosa que resulta irresistible! Está elaborada con coliflor y con otros ingredientes vegetales, que la convierten en…</resum>
+    <ingr>Ingredients:</ingr>
+    <ingredients>
+        <ingredient>4 cucharadas de aceite de oliva virgen extra</ingredient>
+        <ingredient>1 cebolla hermosa</ingredient>
+        <ingredient>4 dientes de ajo</ingredient>
+        <ingredient>500g de coliflor</ingredient>
+        <ingredient>2 tazas de caldo vegetal</ingredient>
+        <ingredient>2 cucharadas de levadura nutricional</ingredient>
+        <ingredient>½ taza de leche de almendras</ingredient>
+        <ingredient>sal</ingredient>
+    </ingredients>
+    <prep>Preparació:</prep>
+    <preparacions>
+        <preparacio>1. Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</preparacio>
+        <preparacio>2. Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más.</preparacio>
+        <preparacio>3. Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté tierna, seguramente se consumirá gran parte del líquido.</preparacio>
+        <preparacio>4. Echaremos la preparación en el vaso de la Vitamix y añadiremos la leche, la levadura, los granos de pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</preparacio>
+        <preparacio>5. Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</preparacio>
+    </preparacions>
+  
+  </cd>
+  <cd>
+    <title>Galletas de Avena, Rosa y Lima</title>
+    <artist>Isa Gil</artist>
+    <date>23 de Novembre</date>
+    <year>2021</year>
+    <imatge>../imagenes/galletas.jpg</imatge>
+    <resum>Galletitas para San Valentín? Estas galletas ricas y crujientes, elaboradas con avena y con un rico sabor a rosa y lima son perfectas para celebrarlo!</resum>
+    <ingr>Ingredients:</ingr>
+    <ingredients>
+        <ingredient>3/4 taza de harina de avena</ingredient>
+        <ingredient>1/4 taza de azúcar de coco</ingredient>
+        <ingredient>1/2 cucharada de semillas de lino trirurado</ingredient>
+        <ingredient>2 cucharadas de agua</ingredient>
+        <ingredient>4 gotas de esencia rosa</ingredient>
+        <ingredient>40ml de aceite de oliva virgen extra</ingredient>
+        <ingredient>1/2 lima rallada (solo piel)</ingredient>
+        <ingredient>Un poco de ágave en polvo a algún endulzante en polvo blanco para decorar (opcional)</ingredient>
+    </ingredients>
+    <prep>Preparació:</prep>
+    <preparacions>
+        <preparacio>1. Echaremos todos los ingredientes de la masa de galletas en un bol y amasaremos un poco para que se mezcle todo bien. Dejaremos enfriar un rato en la nevera o unos minutos en el congelador para manipularla mejor y más cómodamente, aunque puede no ser necesario.</preparacio>
+        <preparacio>2. Estiraremos la masa con un rodillo y a un grosor de ½cm y con un cortapastas les haremos la forma, utilizando uno más pequeño para quitar el centro de la mitad de ellas. En el horno previamente caliente, hornearemos a 180ºC hasta que empiecen a estar doradas, más o menos unos 12 minutos, aunque cada horno es diferente y hay que estar al tanto para que no se nos quemen.</preparacio>
+        <preparacio>3. Las sacaremos y las dejarmenos enfriar en una rejilla para que queden crujientes. Cuando estén frías las espolvorearemos con un poco de ágave en polvo, para darle un bonito toque nevadito.</preparacio>
+        <preparacio>4. Para hacer la mermelada, echaremos todos los ingredientes en una olla pequeña, a fuego medio llevaremos a ebullición, bajeremos el fuego y coceremos unos 5 minutos removiendo, hasta que espese un poco. Apagaremos el fuego y dejaremos enfriar, pero no del todo, porque si no se queda dura. Cuando esté templada, pero algo firme, rellenaremos las galletas poniendo una cucharadita en el centro de una sin agujero y cubriendo con una que tenga el hueco para que se vea.</preparacio>
+        <preparacio>5. La mermelada en contacto con las galletas hace que si pasan muchas horas hasta su consumo, al aportarles humedad, estas se reblandecen y ya no están crujientes. Por lo que si las vas a preparar rellenas, es mejor prepararlas un rato antes de consumirlas, o no rellenarlas, guardarlas en un recipiente hermético, cuando estén frías y preparar el relleno un rato antes de servirlas.</preparacio>
+    </preparacions>
+  </cd>
+
+  <cd>
+    <title>Mijo cremoso con lentejas, hortalizas y shiitake</title>
+    <artist>Isa Gil</artist>
+    <date>23 de Novembre</date>
+    <year>2021</year>
+    <imatge>../imagenes/mijo.jpg</imatge>
+    <resum>Un buen plato de mijo cremoso con lentejas y hortalizas es todo lo que necesitas para templar el cuerpo este invierno! Delicioso y fácil!</resum>
+    <ingr>Ingredients:</ingr>
+    <ingredients>
+        <ingredient>2 cucharadas de aceite de oliva virgen extra</ingredient>
+        <ingredient>1 cebolla grande</ingredient>
+        <ingredient>2 dientes de ajo</ingredient>
+        <ingredient>300 g de boniato pelado</ingredient>
+        <ingredient>300 g de coliflor (parte blanca, sin el tronco)</ingredient>
+        <ingredient>500 ml de agua</ingredient>
+        <ingredient>1/2 taza de mijo</ingredient>
+        <ingredient>1/2 taza de lentejas rojas partidas</ingredient>
+        <ingredient>1 cucharadita de sal</ingredient>
+        <ingredient>5 o 6 setas shiitake (unos 100 g)</ingredient>
+        <ingredient>1 taza de leche de almendras sin endulzar</ingredient>
+        <ingredient>1/2 cucharadita de curry en polvo</ingredient>
+    </ingredients>
+    <prep>Preparació:</prep>
+    <preparacions>
+        <preparacio>1. Echar las 2 cucharadas de aceite de oliva virgen extra en una olla, calentar y añadir la cebolla bien picada.</preparacio>
+        <preparacio>2. Cuando esté translúcida, echar los ajos prensados, remover, esperar unos segundos y echar el boniato cortado en cubitos y la coliflor también cortada en trocitos. Remover bien.</preparacio>
+        <preparacio>3. Echar el agua ya caliente, la sal y también las lentejas y mijo lavados y escurridos. Remover bien. Dejar cocer a fuego bajo-medio hasta que todo esté prácticamente cocido.</preparacio>
+        <preparacio>4. Añadir las setas shiitake, limpias y laminadas, la leche de almendras y el curry, remover y acabar de cocer unos minutos más. Rectificar de sal y tapar para que acabe de hacerse con el calor. Si falta algo de cocción, añadir algo más de líquido y continuar a fuego bajo unos minutos más; también se puede añadir algo más de curry si se desea.</preparacio>
+        <preparacio>5. Añadir las guarniciones a la hora de servir y un poquito de aceite de oliva virgen extra por encima.</preparacio>
+    </preparacions>
+  </cd>
+
+  <cd>
+    <title>Calabacines rellenos de arroz negro y calabaza</title>
+    <artist>Isa Gil</artist>
+    <date>23 de Novembre</date>
+    <year>2021</year>
+    <imatge>../imagenes/calabacines.jpg</imatge>
+    <resum>Estos calabacines rellenos de arroz negro y calabaza que te propongo hoy, son la última receta que publico en el blog en…</resum>
+    <ingr>Ingredients:</ingr>
+    <ingredients>
+        <ingredient>2 calabacines medianos</ingredient>
+        <ingredient>1 cebolla mediana</ingredient>
+        <ingredient>2 cucharadas de aceite de oliva virgen extra</ingredient>
+        <ingredient>1 diente de ajo</ingredient>
+        <ingredient>½–¾ de cucharadita de canela en polvo</ingredient>
+        <ingredient>1 taza de calabaza a cuadritos cocida (al horno o al vapor)</ingredient>
+        <ingredient>1 taza de arroz negro cocido</ingredient>
+        <ingredient>2 cucharadas de nata vegetal de tu elección (yo he utilizado de soja)</ingredient>
+        <ingredient>sal al gusto</ingredient>
+        <ingredient>Queso mozzarella y parmesano rallado al gusto</ingredient>
+    </ingredients>
+    <prep>Preparació:</prep>
+    <preparacions>
+        <preparacio>1. Hornear calabacines: En el horno precalentado a 180ºC, pondremos a hornear los calabacines partidos por la mitad en una bandeja de horno con un poco de aceite en la base para que no se peguen, entre 150-180ºC (dependiendo del horno), hasta que estén al dente y la pulpa tierna (más o menos 1 hora y ¼, pero depende del horno).</preparacio>
+        <preparacio>2. Hornear la calabaza: Al mismo tiempo, yo aprovecho para hornear la calabaza a cortada a cuadritos, también hasta que esté tierna, removiéndola si es necesario para que no se queme (pueden tardar tiempos diferentes) o también la puedes hacer al vapor.</preparacio>
+        <preparacio>3. Cocer el arroz: Mientras cocer el arroz en 1 medida de arroz por 2 y ¼ medidas de agua, después de lavarlo bien, hasta que se consuma todo el líquido.</preparacio>
+        <preparacio>4. Quitar la pulpa: Cuando estén los calabacines, quitar la pulpa con una cuchara y reservarla.</preparacio>
+        <preparacio>5. Sofreír: En una sartén, sofreír en un poco de aceite la cebolla picada, cuando esté transparente añadir el ajo triturado, la calabaza, la pulpa deshecha de los calabacines, la canela, la sal al gusto y la nata. Remover bien para que se integre todo.</preparacio>
+        <preparacio>6. Rellenar: Rellenar los calabacines con esta mezcla, dejando espacio para añadir encima un poco de arroz cocido, un poco de mozzarella y parmesano (o cualquier queso vegano que funda y gratine)</preparacio>
+        <preparacio>7. Gratinar y servir: Gratinar y servir con cilantro fresco o cualquier otra aromática fresca si se desea.</preparacio>
+    </preparacions>
+  </cd>
+
+  <cd>
+    <title>Pasta con salsa de coliflor y pimienta de Jamaica</title>
+    <artist>Isa Gil</artist>
+    <date>23 de Novembre</date>
+    <year>2021</year>
+    <imatge>../imagenes/Pasta.jpg</imatge>
+    <resum>Una salsa vegana para la pasta, tan sabrosa y cremosa que resulta irresistible! Está elaborada con coliflor y con otros ingredientes vegetales, que la convierten en…</resum>
+    <ingr>Ingredients:</ingr>
+    <ingredients>
+        <ingredient>4 cucharadas de aceite de oliva virgen extra</ingredient>
+        <ingredient>1 cebolla hermosa</ingredient>
+        <ingredient>4 dientes de ajo</ingredient>
+        <ingredient>500g de coliflor</ingredient>
+        <ingredient>2 tazas de caldo vegetal</ingredient>
+        <ingredient>2 cucharadas de levadura nutricional</ingredient>
+        <ingredient>½ taza de leche de almendras</ingredient>
+        <ingredient>sal</ingredient>
+    </ingredients>
+    <prep>Preparació:</prep>
+    <preparacions>
+        <preparacio>1. Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</preparacio>
+        <preparacio>2. Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más.</preparacio>
+        <preparacio>3. Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté tierna, seguramente se consumirá gran parte del líquido.</preparacio>
+        <preparacio>4. Echaremos la preparación en el vaso de la Vitamix y añadiremos la leche, la levadura, los granos de pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</preparacio>
+        <preparacio>5. Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</preparacio>
+    </preparacions>
+  
+  </cd>
+  <cd>
+    <title>Galletas de Avena, Rosa y Lima</title>
+    <artist>Isa Gil</artist>
+    <date>23 de Novembre</date>
+    <year>2021</year>
+    <imatge>../imagenes/galletas.jpg</imatge>
+    <resum>Galletitas para San Valentín? Estas galletas ricas y crujientes, elaboradas con avena y con un rico sabor a rosa y lima son perfectas para celebrarlo!</resum>
+    <ingr>Ingredients:</ingr>
+    <ingredients>
+        <ingredient>3/4 taza de harina de avena</ingredient>
+        <ingredient>1/4 taza de azúcar de coco</ingredient>
+        <ingredient>1/2 cucharada de semillas de lino trirurado</ingredient>
+        <ingredient>2 cucharadas de agua</ingredient>
+        <ingredient>4 gotas de esencia rosa</ingredient>
+        <ingredient>40ml de aceite de oliva virgen extra</ingredient>
+        <ingredient>1/2 lima rallada (solo piel)</ingredient>
+        <ingredient>Un poco de ágave en polvo a algún endulzante en polvo blanco para decorar (opcional)</ingredient>
+    </ingredients>
+    <prep>Preparació:</prep>
+    <preparacions>
+        <preparacio>1. Echaremos todos los ingredientes de la masa de galletas en un bol y amasaremos un poco para que se mezcle todo bien. Dejaremos enfriar un rato en la nevera o unos minutos en el congelador para manipularla mejor y más cómodamente, aunque puede no ser necesario.</preparacio>
+        <preparacio>2. Estiraremos la masa con un rodillo y a un grosor de ½cm y con un cortapastas les haremos la forma, utilizando uno más pequeño para quitar el centro de la mitad de ellas. En el horno previamente caliente, hornearemos a 180ºC hasta que empiecen a estar doradas, más o menos unos 12 minutos, aunque cada horno es diferente y hay que estar al tanto para que no se nos quemen.</preparacio>
+        <preparacio>3. Las sacaremos y las dejarmenos enfriar en una rejilla para que queden crujientes. Cuando estén frías las espolvorearemos con un poco de ágave en polvo, para darle un bonito toque nevadito.</preparacio>
+        <preparacio>4. Para hacer la mermelada, echaremos todos los ingredientes en una olla pequeña, a fuego medio llevaremos a ebullición, bajeremos el fuego y coceremos unos 5 minutos removiendo, hasta que espese un poco. Apagaremos el fuego y dejaremos enfriar, pero no del todo, porque si no se queda dura. Cuando esté templada, pero algo firme, rellenaremos las galletas poniendo una cucharadita en el centro de una sin agujero y cubriendo con una que tenga el hueco para que se vea.</preparacio>
+        <preparacio>5. La mermelada en contacto con las galletas hace que si pasan muchas horas hasta su consumo, al aportarles humedad, estas se reblandecen y ya no están crujientes. Por lo que si las vas a preparar rellenas, es mejor prepararlas un rato antes de consumirlas, o no rellenarlas, guardarlas en un recipiente hermético, cuando estén frías y preparar el relleno un rato antes de servirlas.</preparacio>
+    </preparacions>
+  </cd>
+
+  <cd>
+    <title>Mijo cremoso con lentejas, hortalizas y shiitake</title>
+    <artist>Isa Gil</artist>
+    <date>23 de Novembre</date>
+    <year>2021</year>
+    <imatge>../imagenes/mijo.jpg</imatge>
+    <resum>Un buen plato de mijo cremoso con lentejas y hortalizas es todo lo que necesitas para templar el cuerpo este invierno! Delicioso y fácil!</resum>
+    <ingr>Ingredients:</ingr>
+    <ingredients>
+        <ingredient>2 cucharadas de aceite de oliva virgen extra</ingredient>
+        <ingredient>1 cebolla grande</ingredient>
+        <ingredient>2 dientes de ajo</ingredient>
+        <ingredient>300 g de boniato pelado</ingredient>
+        <ingredient>300 g de coliflor (parte blanca, sin el tronco)</ingredient>
+        <ingredient>500 ml de agua</ingredient>
+        <ingredient>1/2 taza de mijo</ingredient>
+        <ingredient>1/2 taza de lentejas rojas partidas</ingredient>
+        <ingredient>1 cucharadita de sal</ingredient>
+        <ingredient>5 o 6 setas shiitake (unos 100 g)</ingredient>
+        <ingredient>1 taza de leche de almendras sin endulzar</ingredient>
+        <ingredient>1/2 cucharadita de curry en polvo</ingredient>
+    </ingredients>
+    <prep>Preparació:</prep>
+    <preparacions>
+        <preparacio>1. Echar las 2 cucharadas de aceite de oliva virgen extra en una olla, calentar y añadir la cebolla bien picada.</preparacio>
+        <preparacio>2. Cuando esté translúcida, echar los ajos prensados, remover, esperar unos segundos y echar el boniato cortado en cubitos y la coliflor también cortada en trocitos. Remover bien.</preparacio>
+        <preparacio>3. Echar el agua ya caliente, la sal y también las lentejas y mijo lavados y escurridos. Remover bien. Dejar cocer a fuego bajo-medio hasta que todo esté prácticamente cocido.</preparacio>
+        <preparacio>4. Añadir las setas shiitake, limpias y laminadas, la leche de almendras y el curry, remover y acabar de cocer unos minutos más. Rectificar de sal y tapar para que acabe de hacerse con el calor. Si falta algo de cocción, añadir algo más de líquido y continuar a fuego bajo unos minutos más; también se puede añadir algo más de curry si se desea.</preparacio>
+        <preparacio>5. Añadir las guarniciones a la hora de servir y un poquito de aceite de oliva virgen extra por encima.</preparacio>
+    </preparacions>
+  </cd>
+
+  <cd>
+    <title>Calabacines rellenos de arroz negro y calabaza</title>
+    <artist>Isa Gil</artist>
+    <date>23 de Novembre</date>
+    <year>2021</year>
+    <imatge>../imagenes/calabacines.jpg</imatge>
+    <resum>Estos calabacines rellenos de arroz negro y calabaza que te propongo hoy, son la última receta que publico en el blog en…</resum>
+    <ingr>Ingredients:</ingr>
+    <ingredients>
+        <ingredient>2 calabacines medianos</ingredient>
+        <ingredient>1 cebolla mediana</ingredient>
+        <ingredient>2 cucharadas de aceite de oliva virgen extra</ingredient>
+        <ingredient>1 diente de ajo</ingredient>
+        <ingredient>½–¾ de cucharadita de canela en polvo</ingredient>
+        <ingredient>1 taza de calabaza a cuadritos cocida (al horno o al vapor)</ingredient>
+        <ingredient>1 taza de arroz negro cocido</ingredient>
+        <ingredient>2 cucharadas de nata vegetal de tu elección (yo he utilizado de soja)</ingredient>
+        <ingredient>sal al gusto</ingredient>
+        <ingredient>Queso mozzarella y parmesano rallado al gusto</ingredient>
+    </ingredients>
+    <prep>Preparació:</prep>
+    <preparacions>
+        <preparacio>1. Hornear calabacines: En el horno precalentado a 180ºC, pondremos a hornear los calabacines partidos por la mitad en una bandeja de horno con un poco de aceite en la base para que no se peguen, entre 150-180ºC (dependiendo del horno), hasta que estén al dente y la pulpa tierna (más o menos 1 hora y ¼, pero depende del horno).</preparacio>
+        <preparacio>2. Hornear la calabaza: Al mismo tiempo, yo aprovecho para hornear la calabaza a cortada a cuadritos, también hasta que esté tierna, removiéndola si es necesario para que no se queme (pueden tardar tiempos diferentes) o también la puedes hacer al vapor.</preparacio>
+        <preparacio>3. Cocer el arroz: Mientras cocer el arroz en 1 medida de arroz por 2 y ¼ medidas de agua, después de lavarlo bien, hasta que se consuma todo el líquido.</preparacio>
+        <preparacio>4. Quitar la pulpa: Cuando estén los calabacines, quitar la pulpa con una cuchara y reservarla.</preparacio>
+        <preparacio>5. Sofreír: En una sartén, sofreír en un poco de aceite la cebolla picada, cuando esté transparente añadir el ajo triturado, la calabaza, la pulpa deshecha de los calabacines, la canela, la sal al gusto y la nata. Remover bien para que se integre todo.</preparacio>
+        <preparacio>6. Rellenar: Rellenar los calabacines con esta mezcla, dejando espacio para añadir encima un poco de arroz cocido, un poco de mozzarella y parmesano (o cualquier queso vegano que funda y gratine)</preparacio>
+        <preparacio>7. Gratinar y servir: Gratinar y servir con cilantro fresco o cualquier otra aromática fresca si se desea.</preparacio>
+    </preparacions>
+  </cd>
+
+  <cd>
+    <title>Pasta con salsa de coliflor y pimienta de Jamaica</title>
+    <artist>Isa Gil</artist>
+    <date>23 de Novembre</date>
+    <year>2021</year>
+    <imatge>../imagenes/Pasta.jpg</imatge>
+    <resum>Una salsa vegana para la pasta, tan sabrosa y cremosa que resulta irresistible! Está elaborada con coliflor y con otros ingredientes vegetales, que la convierten en…</resum>
+    <ingr>Ingredients:</ingr>
+    <ingredients>
+        <ingredient>4 cucharadas de aceite de oliva virgen extra</ingredient>
+        <ingredient>1 cebolla hermosa</ingredient>
+        <ingredient>4 dientes de ajo</ingredient>
+        <ingredient>500g de coliflor</ingredient>
+        <ingredient>2 tazas de caldo vegetal</ingredient>
+        <ingredient>2 cucharadas de levadura nutricional</ingredient>
+        <ingredient>½ taza de leche de almendras</ingredient>
+        <ingredient>sal</ingredient>
+    </ingredients>
+    <prep>Preparació:</prep>
+    <preparacions>
+        <preparacio>1. Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</preparacio>
+        <preparacio>2. Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más.</preparacio>
+        <preparacio>3. Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté tierna, seguramente se consumirá gran parte del líquido.</preparacio>
+        <preparacio>4. Echaremos la preparación en el vaso de la Vitamix y añadiremos la leche, la levadura, los granos de pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</preparacio>
+        <preparacio>5. Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</preparacio>
+    </preparacions>
+  
+  </cd>
+  <cd>
+    <title>Galletas de Avena, Rosa y Lima</title>
+    <artist>Isa Gil</artist>
+    <date>23 de Novembre</date>
+    <year>2021</year>
+    <imatge>../imagenes/galletas.jpg</imatge>
+    <resum>Galletitas para San Valentín? Estas galletas ricas y crujientes, elaboradas con avena y con un rico sabor a rosa y lima son perfectas para celebrarlo!</resum>
+    <ingr>Ingredients:</ingr>
+    <ingredients>
+        <ingredient>3/4 taza de harina de avena</ingredient>
+        <ingredient>1/4 taza de azúcar de coco</ingredient>
+        <ingredient>1/2 cucharada de semillas de lino trirurado</ingredient>
+        <ingredient>2 cucharadas de agua</ingredient>
+        <ingredient>4 gotas de esencia rosa</ingredient>
+        <ingredient>40ml de aceite de oliva virgen extra</ingredient>
+        <ingredient>1/2 lima rallada (solo piel)</ingredient>
+        <ingredient>Un poco de ágave en polvo a algún endulzante en polvo blanco para decorar (opcional)</ingredient>
+    </ingredients>
+    <prep>Preparació:</prep>
+    <preparacions>
+        <preparacio>1. Echaremos todos los ingredientes de la masa de galletas en un bol y amasaremos un poco para que se mezcle todo bien. Dejaremos enfriar un rato en la nevera o unos minutos en el congelador para manipularla mejor y más cómodamente, aunque puede no ser necesario.</preparacio>
+        <preparacio>2. Estiraremos la masa con un rodillo y a un grosor de ½cm y con un cortapastas les haremos la forma, utilizando uno más pequeño para quitar el centro de la mitad de ellas. En el horno previamente caliente, hornearemos a 180ºC hasta que empiecen a estar doradas, más o menos unos 12 minutos, aunque cada horno es diferente y hay que estar al tanto para que no se nos quemen.</preparacio>
+        <preparacio>3. Las sacaremos y las dejarmenos enfriar en una rejilla para que queden crujientes. Cuando estén frías las espolvorearemos con un poco de ágave en polvo, para darle un bonito toque nevadito.</preparacio>
+        <preparacio>4. Para hacer la mermelada, echaremos todos los ingredientes en una olla pequeña, a fuego medio llevaremos a ebullición, bajeremos el fuego y coceremos unos 5 minutos removiendo, hasta que espese un poco. Apagaremos el fuego y dejaremos enfriar, pero no del todo, porque si no se queda dura. Cuando esté templada, pero algo firme, rellenaremos las galletas poniendo una cucharadita en el centro de una sin agujero y cubriendo con una que tenga el hueco para que se vea.</preparacio>
+        <preparacio>5. La mermelada en contacto con las galletas hace que si pasan muchas horas hasta su consumo, al aportarles humedad, estas se reblandecen y ya no están crujientes. Por lo que si las vas a preparar rellenas, es mejor prepararlas un rato antes de consumirlas, o no rellenarlas, guardarlas en un recipiente hermético, cuando estén frías y preparar el relleno un rato antes de servirlas.</preparacio>
+    </preparacions>
+  </cd>
+
+  <cd>
+    <title>Mijo cremoso con lentejas, hortalizas y shiitake</title>
+    <artist>Isa Gil</artist>
+    <date>23 de Novembre</date>
+    <year>2021</year>
+    <imatge>../imagenes/mijo.jpg</imatge>
+    <resum>Un buen plato de mijo cremoso con lentejas y hortalizas es todo lo que necesitas para templar el cuerpo este invierno! Delicioso y fácil!</resum>
+    <ingr>Ingredients:</ingr>
+    <ingredients>
+        <ingredient>2 cucharadas de aceite de oliva virgen extra</ingredient>
+        <ingredient>1 cebolla grande</ingredient>
+        <ingredient>2 dientes de ajo</ingredient>
+        <ingredient>300 g de boniato pelado</ingredient>
+        <ingredient>300 g de coliflor (parte blanca, sin el tronco)</ingredient>
+        <ingredient>500 ml de agua</ingredient>
+        <ingredient>1/2 taza de mijo</ingredient>
+        <ingredient>1/2 taza de lentejas rojas partidas</ingredient>
+        <ingredient>1 cucharadita de sal</ingredient>
+        <ingredient>5 o 6 setas shiitake (unos 100 g)</ingredient>
+        <ingredient>1 taza de leche de almendras sin endulzar</ingredient>
+        <ingredient>1/2 cucharadita de curry en polvo</ingredient>
+    </ingredients>
+    <prep>Preparació:</prep>
+    <preparacions>
+        <preparacio>1. Echar las 2 cucharadas de aceite de oliva virgen extra en una olla, calentar y añadir la cebolla bien picada.</preparacio>
+        <preparacio>2. Cuando esté translúcida, echar los ajos prensados, remover, esperar unos segundos y echar el boniato cortado en cubitos y la coliflor también cortada en trocitos. Remover bien.</preparacio>
+        <preparacio>3. Echar el agua ya caliente, la sal y también las lentejas y mijo lavados y escurridos. Remover bien. Dejar cocer a fuego bajo-medio hasta que todo esté prácticamente cocido.</preparacio>
+        <preparacio>4. Añadir las setas shiitake, limpias y laminadas, la leche de almendras y el curry, remover y acabar de cocer unos minutos más. Rectificar de sal y tapar para que acabe de hacerse con el calor. Si falta algo de cocción, añadir algo más de líquido y continuar a fuego bajo unos minutos más; también se puede añadir algo más de curry si se desea.</preparacio>
+        <preparacio>5. Añadir las guarniciones a la hora de servir y un poquito de aceite de oliva virgen extra por encima.</preparacio>
+    </preparacions>
+  </cd>
+
+  <cd>
+    <title>Calabacines rellenos de arroz negro y calabaza</title>
+    <artist>Isa Gil</artist>
+    <date>23 de Novembre</date>
+    <year>2021</year>
+    <imatge>../imagenes/calabacines.jpg</imatge>
+    <resum>Estos calabacines rellenos de arroz negro y calabaza que te propongo hoy, son la última receta que publico en el blog en…</resum>
+    <ingr>Ingredients:</ingr>
+    <ingredients>
+        <ingredient>2 calabacines medianos</ingredient>
+        <ingredient>1 cebolla mediana</ingredient>
+        <ingredient>2 cucharadas de aceite de oliva virgen extra</ingredient>
+        <ingredient>1 diente de ajo</ingredient>
+        <ingredient>½–¾ de cucharadita de canela en polvo</ingredient>
+        <ingredient>1 taza de calabaza a cuadritos cocida (al horno o al vapor)</ingredient>
+        <ingredient>1 taza de arroz negro cocido</ingredient>
+        <ingredient>2 cucharadas de nata vegetal de tu elección (yo he utilizado de soja)</ingredient>
+        <ingredient>sal al gusto</ingredient>
+        <ingredient>Queso mozzarella y parmesano rallado al gusto</ingredient>
+    </ingredients>
+    <prep>Preparació:</prep>
+    <preparacions>
+        <preparacio>1. Hornear calabacines: En el horno precalentado a 180ºC, pondremos a hornear los calabacines partidos por la mitad en una bandeja de horno con un poco de aceite en la base para que no se peguen, entre 150-180ºC (dependiendo del horno), hasta que estén al dente y la pulpa tierna (más o menos 1 hora y ¼, pero depende del horno).</preparacio>
+        <preparacio>2. Hornear la calabaza: Al mismo tiempo, yo aprovecho para hornear la calabaza a cortada a cuadritos, también hasta que esté tierna, removiéndola si es necesario para que no se queme (pueden tardar tiempos diferentes) o también la puedes hacer al vapor.</preparacio>
+        <preparacio>3. Cocer el arroz: Mientras cocer el arroz en 1 medida de arroz por 2 y ¼ medidas de agua, después de lavarlo bien, hasta que se consuma todo el líquido.</preparacio>
+        <preparacio>4. Quitar la pulpa: Cuando estén los calabacines, quitar la pulpa con una cuchara y reservarla.</preparacio>
+        <preparacio>5. Sofreír: En una sartén, sofreír en un poco de aceite la cebolla picada, cuando esté transparente añadir el ajo triturado, la calabaza, la pulpa deshecha de los calabacines, la canela, la sal al gusto y la nata. Remover bien para que se integre todo.</preparacio>
+        <preparacio>6. Rellenar: Rellenar los calabacines con esta mezcla, dejando espacio para añadir encima un poco de arroz cocido, un poco de mozzarella y parmesano (o cualquier queso vegano que funda y gratine)</preparacio>
+        <preparacio>7. Gratinar y servir: Gratinar y servir con cilantro fresco o cualquier otra aromática fresca si se desea.</preparacio>
+    </preparacions>
+  </cd>
+
+  <cd>
+    <title>Pasta con salsa de coliflor y pimienta de Jamaica</title>
+    <artist>Isa Gil</artist>
+    <date>23 de Novembre</date>
+    <year>2021</year>
+    <imatge>../imagenes/Pasta.jpg</imatge>
+    <resum>Una salsa vegana para la pasta, tan sabrosa y cremosa que resulta irresistible! Está elaborada con coliflor y con otros ingredientes vegetales, que la convierten en…</resum>
+    <ingr>Ingredients:</ingr>
+    <ingredients>
+        <ingredient>4 cucharadas de aceite de oliva virgen extra</ingredient>
+        <ingredient>1 cebolla hermosa</ingredient>
+        <ingredient>4 dientes de ajo</ingredient>
+        <ingredient>500g de coliflor</ingredient>
+        <ingredient>2 tazas de caldo vegetal</ingredient>
+        <ingredient>2 cucharadas de levadura nutricional</ingredient>
+        <ingredient>½ taza de leche de almendras</ingredient>
+        <ingredient>sal</ingredient>
+    </ingredients>
+    <prep>Preparació:</prep>
+    <preparacions>
+        <preparacio>1. Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</preparacio>
+        <preparacio>2. Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más.</preparacio>
+        <preparacio>3. Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté tierna, seguramente se consumirá gran parte del líquido.</preparacio>
+        <preparacio>4. Echaremos la preparación en el vaso de la Vitamix y añadiremos la leche, la levadura, los granos de pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</preparacio>
+        <preparacio>5. Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</preparacio>
+    </preparacions>
+  
+  </cd>
+  <cd>
+    <title>Galletas de Avena, Rosa y Lima</title>
+    <artist>Isa Gil</artist>
+    <date>23 de Novembre</date>
+    <year>2021</year>
+    <imatge>../imagenes/galletas.jpg</imatge>
+    <resum>Galletitas para San Valentín? Estas galletas ricas y crujientes, elaboradas con avena y con un rico sabor a rosa y lima son perfectas para celebrarlo!</resum>
+    <ingr>Ingredients:</ingr>
+    <ingredients>
+        <ingredient>3/4 taza de harina de avena</ingredient>
+        <ingredient>1/4 taza de azúcar de coco</ingredient>
+        <ingredient>1/2 cucharada de semillas de lino trirurado</ingredient>
+        <ingredient>2 cucharadas de agua</ingredient>
+        <ingredient>4 gotas de esencia rosa</ingredient>
+        <ingredient>40ml de aceite de oliva virgen extra</ingredient>
+        <ingredient>1/2 lima rallada (solo piel)</ingredient>
+        <ingredient>Un poco de ágave en polvo a algún endulzante en polvo blanco para decorar (opcional)</ingredient>
+    </ingredients>
+    <prep>Preparació:</prep>
+    <preparacions>
+        <preparacio>1. Echaremos todos los ingredientes de la masa de galletas en un bol y amasaremos un poco para que se mezcle todo bien. Dejaremos enfriar un rato en la nevera o unos minutos en el congelador para manipularla mejor y más cómodamente, aunque puede no ser necesario.</preparacio>
+        <preparacio>2. Estiraremos la masa con un rodillo y a un grosor de ½cm y con un cortapastas les haremos la forma, utilizando uno más pequeño para quitar el centro de la mitad de ellas. En el horno previamente caliente, hornearemos a 180ºC hasta que empiecen a estar doradas, más o menos unos 12 minutos, aunque cada horno es diferente y hay que estar al tanto para que no se nos quemen.</preparacio>
+        <preparacio>3. Las sacaremos y las dejarmenos enfriar en una rejilla para que queden crujientes. Cuando estén frías las espolvorearemos con un poco de ágave en polvo, para darle un bonito toque nevadito.</preparacio>
+        <preparacio>4. Para hacer la mermelada, echaremos todos los ingredientes en una olla pequeña, a fuego medio llevaremos a ebullición, bajeremos el fuego y coceremos unos 5 minutos removiendo, hasta que espese un poco. Apagaremos el fuego y dejaremos enfriar, pero no del todo, porque si no se queda dura. Cuando esté templada, pero algo firme, rellenaremos las galletas poniendo una cucharadita en el centro de una sin agujero y cubriendo con una que tenga el hueco para que se vea.</preparacio>
+        <preparacio>5. La mermelada en contacto con las galletas hace que si pasan muchas horas hasta su consumo, al aportarles humedad, estas se reblandecen y ya no están crujientes. Por lo que si las vas a preparar rellenas, es mejor prepararlas un rato antes de consumirlas, o no rellenarlas, guardarlas en un recipiente hermético, cuando estén frías y preparar el relleno un rato antes de servirlas.</preparacio>
+    </preparacions>
+  </cd>
+
+  <cd>
+    <title>Mijo cremoso con lentejas, hortalizas y shiitake</title>
+    <artist>Isa Gil</artist>
+    <date>23 de Novembre</date>
+    <year>2021</year>
+    <imatge>../imagenes/mijo.jpg</imatge>
+    <resum>Un buen plato de mijo cremoso con lentejas y hortalizas es todo lo que necesitas para templar el cuerpo este invierno! Delicioso y fácil!</resum>
+    <ingr>Ingredients:</ingr>
+    <ingredients>
+        <ingredient>2 cucharadas de aceite de oliva virgen extra</ingredient>
+        <ingredient>1 cebolla grande</ingredient>
+        <ingredient>2 dientes de ajo</ingredient>
+        <ingredient>300 g de boniato pelado</ingredient>
+        <ingredient>300 g de coliflor (parte blanca, sin el tronco)</ingredient>
+        <ingredient>500 ml de agua</ingredient>
+        <ingredient>1/2 taza de mijo</ingredient>
+        <ingredient>1/2 taza de lentejas rojas partidas</ingredient>
+        <ingredient>1 cucharadita de sal</ingredient>
+        <ingredient>5 o 6 setas shiitake (unos 100 g)</ingredient>
+        <ingredient>1 taza de leche de almendras sin endulzar</ingredient>
+        <ingredient>1/2 cucharadita de curry en polvo</ingredient>
+    </ingredients>
+    <prep>Preparació:</prep>
+    <preparacions>
+        <preparacio>1. Echar las 2 cucharadas de aceite de oliva virgen extra en una olla, calentar y añadir la cebolla bien picada.</preparacio>
+        <preparacio>2. Cuando esté translúcida, echar los ajos prensados, remover, esperar unos segundos y echar el boniato cortado en cubitos y la coliflor también cortada en trocitos. Remover bien.</preparacio>
+        <preparacio>3. Echar el agua ya caliente, la sal y también las lentejas y mijo lavados y escurridos. Remover bien. Dejar cocer a fuego bajo-medio hasta que todo esté prácticamente cocido.</preparacio>
+        <preparacio>4. Añadir las setas shiitake, limpias y laminadas, la leche de almendras y el curry, remover y acabar de cocer unos minutos más. Rectificar de sal y tapar para que acabe de hacerse con el calor. Si falta algo de cocción, añadir algo más de líquido y continuar a fuego bajo unos minutos más; también se puede añadir algo más de curry si se desea.</preparacio>
+        <preparacio>5. Añadir las guarniciones a la hora de servir y un poquito de aceite de oliva virgen extra por encima.</preparacio>
+    </preparacions>
+  </cd>
+
+  <cd>
+    <title>Calabacines rellenos de arroz negro y calabaza</title>
+    <artist>Isa Gil</artist>
+    <date>23 de Novembre</date>
+    <year>2021</year>
+    <imatge>../imagenes/calabacines.jpg</imatge>
+    <resum>Estos calabacines rellenos de arroz negro y calabaza que te propongo hoy, son la última receta que publico en el blog en…</resum>
+    <ingr>Ingredients:</ingr>
+    <ingredients>
+        <ingredient>2 calabacines medianos</ingredient>
+        <ingredient>1 cebolla mediana</ingredient>
+        <ingredient>2 cucharadas de aceite de oliva virgen extra</ingredient>
+        <ingredient>1 diente de ajo</ingredient>
+        <ingredient>½–¾ de cucharadita de canela en polvo</ingredient>
+        <ingredient>1 taza de calabaza a cuadritos cocida (al horno o al vapor)</ingredient>
+        <ingredient>1 taza de arroz negro cocido</ingredient>
+        <ingredient>2 cucharadas de nata vegetal de tu elección (yo he utilizado de soja)</ingredient>
+        <ingredient>sal al gusto</ingredient>
+        <ingredient>Queso mozzarella y parmesano rallado al gusto</ingredient>
+    </ingredients>
+    <prep>Preparació:</prep>
+    <preparacions>
+        <preparacio>1. Hornear calabacines: En el horno precalentado a 180ºC, pondremos a hornear los calabacines partidos por la mitad en una bandeja de horno con un poco de aceite en la base para que no se peguen, entre 150-180ºC (dependiendo del horno), hasta que estén al dente y la pulpa tierna (más o menos 1 hora y ¼, pero depende del horno).</preparacio>
+        <preparacio>2. Hornear la calabaza: Al mismo tiempo, yo aprovecho para hornear la calabaza a cortada a cuadritos, también hasta que esté tierna, removiéndola si es necesario para que no se queme (pueden tardar tiempos diferentes) o también la puedes hacer al vapor.</preparacio>
+        <preparacio>3. Cocer el arroz: Mientras cocer el arroz en 1 medida de arroz por 2 y ¼ medidas de agua, después de lavarlo bien, hasta que se consuma todo el líquido.</preparacio>
+        <preparacio>4. Quitar la pulpa: Cuando estén los calabacines, quitar la pulpa con una cuchara y reservarla.</preparacio>
+        <preparacio>5. Sofreír: En una sartén, sofreír en un poco de aceite la cebolla picada, cuando esté transparente añadir el ajo triturado, la calabaza, la pulpa deshecha de los calabacines, la canela, la sal al gusto y la nata. Remover bien para que se integre todo.</preparacio>
+        <preparacio>6. Rellenar: Rellenar los calabacines con esta mezcla, dejando espacio para añadir encima un poco de arroz cocido, un poco de mozzarella y parmesano (o cualquier queso vegano que funda y gratine)</preparacio>
+        <preparacio>7. Gratinar y servir: Gratinar y servir con cilantro fresco o cualquier otra aromática fresca si se desea.</preparacio>
+    </preparacions>
+  </cd>
+
+  <cd>
+    <title>Pasta con salsa de coliflor y pimienta de Jamaica</title>
+    <artist>Isa Gil</artist>
+    <date>23 de Novembre</date>
+    <year>2021</year>
+    <imatge>../imagenes/Pasta.jpg</imatge>
+    <resum>Una salsa vegana para la pasta, tan sabrosa y cremosa que resulta irresistible! Está elaborada con coliflor y con otros ingredientes vegetales, que la convierten en…</resum>
+    <ingr>Ingredients:</ingr>
+    <ingredients>
+        <ingredient>4 cucharadas de aceite de oliva virgen extra</ingredient>
+        <ingredient>1 cebolla hermosa</ingredient>
+        <ingredient>4 dientes de ajo</ingredient>
+        <ingredient>500g de coliflor</ingredient>
+        <ingredient>2 tazas de caldo vegetal</ingredient>
+        <ingredient>2 cucharadas de levadura nutricional</ingredient>
+        <ingredient>½ taza de leche de almendras</ingredient>
+        <ingredient>sal</ingredient>
+    </ingredients>
+    <prep>Preparació:</prep>
+    <preparacions>
+        <preparacio>1. Picaremos bien fina la cebolla y la sofreiremos en el aceite hasta que esté translúcida.</preparacio>
+        <preparacio>2. Añadiremos entonces los ajos prensados o picados finos. Sofreiremos medio minuto más.</preparacio>
+        <preparacio>3. Incorporaremos la coliflor troceada o separada en flores, el caldo y dejaremos cocer hasta que esté tierna, seguramente se consumirá gran parte del líquido.</preparacio>
+        <preparacio>4. Echaremos la preparación en el vaso de la Vitamix y añadiremos la leche, la levadura, los granos de pimienta y un poco de sal al gusto. Batiremos hasta conseguir una textura fina.</preparacio>
+        <preparacio>5. Una vez esté bien batida, utilizaremos esta salsa para acompañar cualquier plato de pasta.</preparacio>
+    </preparacions>
+  
+  </cd>
+  <cd>
+    <title>Galletas de Avena, Rosa y Lima</title>
+    <artist>Isa Gil</artist>
+    <date>23 de Novembre</date>
+    <year>2021</year>
+    <imatge>../imagenes/galletas.jpg</imatge>
+    <resum>Galletitas para San Valentín? Estas galletas ricas y crujientes, elaboradas con avena y con un rico sabor a rosa y lima son perfectas para celebrarlo!</resum>
+    <ingr>Ingredients:</ingr>
+    <ingredients>
+        <ingredient>3/4 taza de harina de avena</ingredient>
+        <ingredient>1/4 taza de azúcar de coco</ingredient>
+        <ingredient>1/2 cucharada de semillas de lino trirurado</ingredient>
+        <ingredient>2 cucharadas de agua</ingredient>
+        <ingredient>4 gotas de esencia rosa</ingredient>
+        <ingredient>40ml de aceite de oliva virgen extra</ingredient>
+        <ingredient>1/2 lima rallada (solo piel)</ingredient>
+        <ingredient>Un poco de ágave en polvo a algún endulzante en polvo blanco para decorar (opcional)</ingredient>
+    </ingredients>
+    <prep>Preparació:</prep>
+    <preparacions>
+        <preparacio>1. Echaremos todos los ingredientes de la masa de galletas en un bol y amasaremos un poco para que se mezcle todo bien. Dejaremos enfriar un rato en la nevera o unos minutos en el congelador para manipularla mejor y más cómodamente, aunque puede no ser necesario.</preparacio>
+        <preparacio>2. Estiraremos la masa con un rodillo y a un grosor de ½cm y con un cortapastas les haremos la forma, utilizando uno más pequeño para quitar el centro de la mitad de ellas. En el horno previamente caliente, hornearemos a 180ºC hasta que empiecen a estar doradas, más o menos unos 12 minutos, aunque cada horno es diferente y hay que estar al tanto para que no se nos quemen.</preparacio>
+        <preparacio>3. Las sacaremos y las dejarmenos enfriar en una rejilla para que queden crujientes. Cuando estén frías las espolvorearemos con un poco de ágave en polvo, para darle un bonito toque nevadito.</preparacio>
+        <preparacio>4. Para hacer la mermelada, echaremos todos los ingredientes en una olla pequeña, a fuego medio llevaremos a ebullición, bajeremos el fuego y coceremos unos 5 minutos removiendo, hasta que espese un poco. Apagaremos el fuego y dejaremos enfriar, pero no del todo, porque si no se queda dura. Cuando esté templada, pero algo firme, rellenaremos las galletas poniendo una cucharadita en el centro de una sin agujero y cubriendo con una que tenga el hueco para que se vea.</preparacio>
+        <preparacio>5. La mermelada en contacto con las galletas hace que si pasan muchas horas hasta su consumo, al aportarles humedad, estas se reblandecen y ya no están crujientes. Por lo que si las vas a preparar rellenas, es mejor prepararlas un rato antes de consumirlas, o no rellenarlas, guardarlas en un recipiente hermético, cuando estén frías y preparar el relleno un rato antes de servirlas.</preparacio>
+    </preparacions>
+  </cd>
+
+  <cd>
+    <title>Mijo cremoso con lentejas, hortalizas y shiitake</title>
+    <artist>Isa Gil</artist>
+    <date>23 de Novembre</date>
+    <year>2021</year>
+    <imatge>../imagenes/mijo.jpg</imatge>
+    <resum>Un buen plato de mijo cremoso con lentejas y hortalizas es todo lo que necesitas para templar el cuerpo este invierno! Delicioso y fácil!</resum>
+    <ingr>Ingredients:</ingr>
+    <ingredients>
+        <ingredient>2 cucharadas de aceite de oliva virgen extra</ingredient>
+        <ingredient>1 cebolla grande</ingredient>
+        <ingredient>2 dientes de ajo</ingredient>
+        <ingredient>300 g de boniato pelado</ingredient>
+        <ingredient>300 g de coliflor (parte blanca, sin el tronco)</ingredient>
+        <ingredient>500 ml de agua</ingredient>
+        <ingredient>1/2 taza de mijo</ingredient>
+        <ingredient>1/2 taza de lentejas rojas partidas</ingredient>
+        <ingredient>1 cucharadita de sal</ingredient>
+        <ingredient>5 o 6 setas shiitake (unos 100 g)</ingredient>
+        <ingredient>1 taza de leche de almendras sin endulzar</ingredient>
+        <ingredient>1/2 cucharadita de curry en polvo</ingredient>
+    </ingredients>
+    <prep>Preparació:</prep>
+    <preparacions>
+        <preparacio>1. Echar las 2 cucharadas de aceite de oliva virgen extra en una olla, calentar y añadir la cebolla bien picada.</preparacio>
+        <preparacio>2. Cuando esté translúcida, echar los ajos prensados, remover, esperar unos segundos y echar el boniato cortado en cubitos y la coliflor también cortada en trocitos. Remover bien.</preparacio>
+        <preparacio>3. Echar el agua ya caliente, la sal y también las lentejas y mijo lavados y escurridos. Remover bien. Dejar cocer a fuego bajo-medio hasta que todo esté prácticamente cocido.</preparacio>
+        <preparacio>4. Añadir las setas shiitake, limpias y laminadas, la leche de almendras y el curry, remover y acabar de cocer unos minutos más. Rectificar de sal y tapar para que acabe de hacerse con el calor. Si falta algo de cocción, añadir algo más de líquido y continuar a fuego bajo unos minutos más; también se puede añadir algo más de curry si se desea.</preparacio>
+        <preparacio>5. Añadir las guarniciones a la hora de servir y un poquito de aceite de oliva virgen extra por encima.</preparacio>
+    </preparacions>
+  </cd>
+
+  <cd>
+    <title>Calabacines rellenos de arroz negro y calabaza</title>
+    <artist>Isa Gil</artist>
+    <date>23 de Novembre</date>
+    <year>2021</year>
+    <imatge>../imagenes/calabacines.jpg</imatge>
+    <resum>Estos calabacines rellenos de arroz negro y calabaza que te propongo hoy, son la última receta que publico en el blog en…</resum>
+    <ingr>Ingredients:</ingr>
+    <ingredients>
+        <ingredient>2 calabacines medianos</ingredient>
+        <ingredient>1 cebolla mediana</ingredient>
+        <ingredient>2 cucharadas de aceite de oliva virgen extra</ingredient>
+        <ingredient>1 diente de ajo</ingredient>
+        <ingredient>½–¾ de cucharadita de canela en polvo</ingredient>
+        <ingredient>1 taza de calabaza a cuadritos cocida (al horno o al vapor)</ingredient>
+        <ingredient>1 taza de arroz negro cocido</ingredient>
+        <ingredient>2 cucharadas de nata vegetal de tu elección (yo he utilizado de soja)</ingredient>
+        <ingredient>sal al gusto</ingredient>
+        <ingredient>Queso mozzarella y parmesano rallado al gusto</ingredient>
+    </ingredients>
+    <prep>Preparació:</prep>
+    <preparacions>
+        <preparacio>1. Hornear calabacines: En el horno precalentado a 180ºC, pondremos a hornear los calabacines partidos por la mitad en una bandeja de horno con un poco de aceite en la base para que no se peguen, entre 150-180ºC (dependiendo del horno), hasta que estén al dente y la pulpa tierna (más o menos 1 hora y ¼, pero depende del horno).</preparacio>
+        <preparacio>2. Hornear la calabaza: Al mismo tiempo, yo aprovecho para hornear la calabaza a cortada a cuadritos, también hasta que esté tierna, removiéndola si es necesario para que no se queme (pueden tardar tiempos diferentes) o también la puedes hacer al vapor.</preparacio>
+        <preparacio>3. Cocer el arroz: Mientras cocer el arroz en 1 medida de arroz por 2 y ¼ medidas de agua, después de lavarlo bien, hasta que se consuma todo el líquido.</preparacio>
+        <preparacio>4. Quitar la pulpa: Cuando estén los calabacines, quitar la pulpa con una cuchara y reservarla.</preparacio>
+        <preparacio>5. Sofreír: En una sartén, sofreír en un poco de aceite la cebolla picada, cuando esté transparente añadir el ajo triturado, la calabaza, la pulpa deshecha de los calabacines, la canela, la sal al gusto y la nata. Remover bien para que se integre todo.</preparacio>
+        <preparacio>6. Rellenar: Rellenar los calabacines con esta mezcla, dejando espacio para añadir encima un poco de arroz cocido, un poco de mozzarella y parmesano (o cualquier queso vegano que funda y gratine)</preparacio>
+        <preparacio>7. Gratinar y servir: Gratinar y servir con cilantro fresco o cualquier otra aromática fresca si se desea.</preparacio>
+    </preparacions>
+  </cd>
+</catalog>
